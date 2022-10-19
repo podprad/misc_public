@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 
 namespace MyLibrary
 {
@@ -14,6 +15,20 @@ namespace MyLibrary
 
             Helpers.LogLeave();
             return 0;
-        }           
+        }
+
+        [return: MarshalAs(UnmanagedType.I4)]
+        public static int DotnetMainVoid()
+        {
+            Helpers.LogEnter();
+
+            Helpers.LogAppDomainInformation();
+
+            Helpers.LogAssemblyLoadContextInformation();
+
+            Helpers.LogLeave();
+
+            return 0;
+        }
     }
 }

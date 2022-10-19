@@ -4,10 +4,158 @@
 #include <hostfxr.h>
 #include <coreclr_delegates.h>
 #include <string.h>
+#include <coreclrhost.h>
 
 typedef void (*void_fn)();
 
 using string_t = std::basic_string<char_t>;
+using string = std::basic_string<char>;
+
+int run_hostfxr_example(int argc, wchar_t** argv);
+
+typedef const int (*dotnet_main_void_ptr)();
+
+void BuildTpaList(const char* directory, const char* extension, std::string& tpaList);
+
+int run_coreclr_direct_example(int argc, wchar_t** argv);
+
+#define CORE_CLR_DIR L"c:\\Program Files (x86)\\dotnet\\shared\\Microsoft.NETCore.App\\6.0.8\\"
+
+int wmain(int argc, wchar_t **argv)
+{
+    SetEnvironmentVariable(L"COREHOST_TRACE", L"1");
+    SetEnvironmentVariable(L"COREHOST_TRACE_VERBOSITY", L"4");
+
+    int result = run_hostfxr_example(argc, argv);
+    // int result = run_coreclr_direct_example(argc, argv);
+   
+    return result;
+}
+
+int run_coreclr_direct_example(int argc, wchar_t** argv)
+{
+    wchar_t localDirectory_t[MAX_PATH];
+    GetFullPathName(argv[0], MAX_PATH, localDirectory_t, NULL);
+
+    auto last_slash = wcsrchr(localDirectory_t, '\\');
+    if (last_slash != NULL)
+        *last_slash = 0;
+
+    // Construct the managed library path
+    string_t managedLibraryPath_t(localDirectory_t);
+    managedLibraryPath_t.append(L"\\MyLibrary.dll");
+    string managedLibraryPath(managedLibraryPath_t.begin(), managedLibraryPath_t.end());
+
+    // Construct coreclr.dll local path
+    string_t coreclrPath_t(localDirectory_t);
+    coreclrPath_t.append(L"\\coreclr.dll");
+
+    // Construct local path
+    string_t localDirectory_st = localDirectory_t;
+    string localDirectory_s(localDirectory_st.begin(), localDirectory_st.end());
+
+    int result = 0;
+
+    std::string tpaList;
+
+    auto coreClrHandle = LoadLibrary(coreclrPath_t.c_str());
+    
+    // Include DLLs from local dir
+    BuildTpaList(localDirectory_s.c_str(), ".dll", tpaList);
+
+    if (coreClrHandle == NULL)
+    {
+        coreclrPath_t.clear();
+        coreclrPath_t.append(CORE_CLR_DIR);
+        coreclrPath_t.append(L"coreclr.dll");
+
+        coreClrHandle = LoadLibrary(coreclrPath_t.c_str());
+
+        string_t coreclrDir_t = CORE_CLR_DIR;
+        string coreclrDir(coreclrDir_t.begin(), coreclrDir_t.end());
+
+        // Include dlls from coreclr dir
+        BuildTpaList(coreclrDir.c_str(), ".dll", tpaList);
+    }
+
+    if (coreClrHandle == NULL)
+    {
+        std::cout << "Failed to load coreclr.dll";
+        return 0;
+    }
+
+    string coreClrPath(coreclrPath_t.begin(), coreclrPath_t.end());    
+
+    coreclr_initialize_ptr coreclr_initialize = (coreclr_initialize_ptr)GetProcAddress(coreClrHandle, "coreclr_initialize");
+    coreclr_create_delegate_ptr createManagedDelegate = (coreclr_create_delegate_ptr)GetProcAddress(coreClrHandle, "coreclr_create_delegate");
+
+    void* hostHandle = 0;
+    unsigned int domainId = 0;  
+
+    // Define CoreCLR properties
+    const char* propertyKeys[] = {
+        "TRUSTED_PLATFORM_ASSEMBLIES",      // Trusted assemblies (like the GAC)
+        "APP_PATHS",                        // Directories to probe for application assemblies
+        // "APP_NI_PATHS",                     // Directories to probe for application native images (not used in this sample)
+        // "NATIVE_DLL_SEARCH_DIRECTORIES",    // Directories to probe for native dlls (not used in this sample)
+    };
+
+    const char* propertyValues[] = {
+        tpaList.c_str(),
+        localDirectory_s.c_str(),
+    };
+
+    result = coreclr_initialize(localDirectory_s.c_str(), "MyAppDomain", sizeof(propertyKeys) / sizeof(char*), propertyKeys, propertyValues, &hostHandle, &domainId);
+
+    dotnet_main_void_ptr managedDelegate;
+    result = createManagedDelegate(
+        hostHandle,
+        domainId,
+        "MyLibrary",
+        "MyLibrary.ClassWithMain",
+        "DotnetMainVoid",
+        (void**)&managedDelegate);
+
+    if (result != 0)
+    {
+        std::cout << "Error " << result << "\r\n";
+        return result;
+    }
+
+    managedDelegate();
+}
+
+void BuildTpaList(const char* directory, const char* extension, std::string& tpaList)
+{
+    std::string searchPath(directory);
+    searchPath.append("\\");
+    searchPath.append("*");
+    searchPath.append(extension);
+
+    WIN32_FIND_DATAA findData;
+    HANDLE fileHandle = FindFirstFileA(searchPath.c_str(), &findData);
+
+    if (fileHandle != INVALID_HANDLE_VALUE)
+    {
+        do
+        {
+            // Append the assembly to the list
+            tpaList.append(directory);
+            tpaList.append("\\");
+            tpaList.append(findData.cFileName);
+            tpaList.append(";");
+
+            // Note that the CLR does not guarantee which assembly will be loaded if an assembly
+            // is in the TPA list multiple times (perhaps from different paths or perhaps with different NI/NI.dll
+            // extensions. Therefore, a real host should probably add items to the list in priority order and only
+            // add a file if it's not already present on the list.
+            //
+            // For this simple sample, though, and because we're only loading TPA assemblies from a single path,
+            // and have no native images, we can ignore that complication.
+        } while (FindNextFileA(fileHandle, &findData));
+        FindClose(fileHandle);
+    }
+}
 
 int run_hostfxr_example(int argc, wchar_t** argv)
 {
@@ -107,8 +255,12 @@ int run_hostfxr_example(int argc, wchar_t** argv)
 
     component_entry_point_fn dotnetMethod = nullptr;
 
+    std::cout << "Press any key\r\n";
+    std::cin.get();
+
     // Try get the pointer,
-    error = get_function_pointer_fun(dotnetTypeName, dotnetMethodName, NULL, ctx, NULL, (void**)&dotnetMethod);
+    // error = get_function_pointer_fun(L"System.Runtime.Assembly, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e", L"UnsafeLoadFrom", NULL, NULL, NULL, (void**)&dotnetMethod);
+    /*error = get_function_pointer_fun(L"System.Runtime.Assembly", L"UnsafeLoadFrom", NULL, NULL, NULL, (void**)&dotnetMethod);
     if (error != 0)
     {
         printf("get_function_pointer_fun failed with code %X08\r\n", error);
@@ -116,7 +268,7 @@ int run_hostfxr_example(int argc, wchar_t** argv)
     else
     {
         dotnetMethod(nullptr, 0);
-    }
+    }*/
 
     error = load_assembly_and_get_function_pointer_fun(
         dotnetDllPath.c_str(),
@@ -153,16 +305,4 @@ int run_hostfxr_example(int argc, wchar_t** argv)
     anotherHello();
 
     return 0;
-}
-
-int wmain(int argc, wchar_t **argv)
-{
-    SetEnvironmentVariable(L"COREHOST_TRACE", L"1");
-    SetEnvironmentVariable(L"COREHOST_TRACE_VERBOSITY", L"4");
-
-    int result = 0;
-
-    result = run_hostfxr_example(argc, argv);
-
-    return result;
 }
