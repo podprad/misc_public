@@ -23,22 +23,33 @@
 
             var connectionString = connectionStringBuilder.ToString();
 
-            using (var connection = new OracleConnection(connectionString))
+            while (true)
             {
-                connection.Open();
-
-                using (var context = new DbContext(connection, false))
+                using (var connection = new OracleConnection(connectionString))
                 {
-                    var elements = context.Database.SqlQuery<MyDummyEntity>("SELECT :p0 as P1, LEVEL FROM DUAL CONNECT BY LEVEL <= 2000", "any string");
+                    connection.Open();
 
-                    var process = Process.GetCurrentProcess();
-                    Console.WriteLine($"Private bytes before: {process.PrivateMemorySize64}");
+                    // In our application we use real database-first context, however I managed
+                    // to reproduce it by base DbContext and simple SELECT from DUAL.
+                    using (var context = new DbContext(connection, false))
+                    {
+                        var elements = context.Database.SqlQuery<MyDummyEntity>("SELECT :p0 as P1, LEVEL FROM DUAL CONNECT BY LEVEL <= 2000", "any string");
 
-                    var result = elements.ToList();
-                    Console.WriteLine($"Fetched {result.Count} objects");
+                        var process = Process.GetCurrentProcess();
+                        Console.WriteLine($"Private bytes before: {process.PrivateMemorySize64}");
 
-                    process.Refresh();
-                    Console.WriteLine($"Private bytes after: {process.PrivateMemorySize64}");
+                        var result = elements.ToList();
+                        Console.WriteLine($"Fetched {result.Count} objects");
+
+                        // After calling ToList() we get ~500MB peak.
+                        // In our 32bit applications it sometimes leads to OutOfMemoryException.
+                        process.Refresh();
+                        Console.WriteLine($"Private bytes after: {process.PrivateMemorySize64}");
+
+                        Thread.Sleep(2000);
+                        GC.Collect();
+                        GC.WaitForPendingFinalizers();
+                    }
                 }
             }
         }
