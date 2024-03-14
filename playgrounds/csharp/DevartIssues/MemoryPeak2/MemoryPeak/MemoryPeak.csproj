@@ -2,11 +2,12 @@
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
-        <TargetFramework>net6.0-windows</TargetFramework>
-<!--        <TargetFramework>net48</TargetFramework>-->
+<!--        <TargetFramework>net6.0-windows</TargetFramework>-->
+        <TargetFramework>net48</TargetFramework>
         <SelfContained Condition=" '$(TargetFramework)' == 'net6.0-windows' ">true</SelfContained>
         <RuntimeFrameworkVersion Condition=" '$(TargetFramework)' == 'net6.0-windows' ">6.0.20</RuntimeFrameworkVersion>
         <RuntimeIdentifier Condition=" '$(TargetFramework)' == 'net6.0-windows' ">win-x86</RuntimeIdentifier>
+        <LangVersion>7.3</LangVersion>
     </PropertyGroup>
 
     <ItemGroup Condition=" '$(TargetFramework)' == 'net48' ">
