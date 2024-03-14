@@ -3,6 +3,7 @@
     using System;
     using System.Collections.Generic;
     using System.Diagnostics;
+    using System.Runtime;
     using System.Text;
     using Devart.Data.Oracle;
 
@@ -34,12 +35,13 @@
 
                 var connectionString = ConnectionStringProvider.GetConnectionString();
 
-                int fetchSizeStart = 0;
-                int fetchSizeMax = 4000;
-                int fetchSizeIncrement = 0;
+                int fetchSizeStart = 250;
+                int iterationsCount = 100;
+                int fetchSizeIncrement = 50;
+                int fetchSizeMax = 500;
 
                 int fetchSize = fetchSizeStart;
-                while (fetchSize <= fetchSizeMax)
+                for(int i = 0; i < iterationsCount; i++)
                 {
                     GC.Collect();
                     GC.WaitForPendingFinalizers();
@@ -86,6 +88,8 @@
                     }
 
                     fetchSize += fetchSizeIncrement;
+
+                    fetchSize = Math.Min(fetchSizeMax, fetchSize);
                 }
             }
             catch (Exception exception)
