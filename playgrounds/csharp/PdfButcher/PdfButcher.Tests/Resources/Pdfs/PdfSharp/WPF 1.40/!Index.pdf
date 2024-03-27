@@ -1,0 +1,1866 @@
+%PDF-1.4
+%ÓôÌá
+% PDFsharp Version 1.31.1789.0 (verbose mode)
+% Creation date: 30.11.2009 14:17:57             
+% Creation time: 0.343 seconds                   
+% File size: 64499 bytes                         
+% Pages: 2                                       
+% Objects: 60                                    
+%--------------------------------------------------------------------------------------------------
+1 0 obj   % PdfSharp.Pdf.PdfDocumentInformation
+<<
+  /CreationDate (D:20091130141757+01'00')
+  /Creator (empira MigraDoc 1.2.2961 \(www.migradoc.com\))
+  /Producer (PDFsharp 1.31.1789-w \(www.pdfsharp.com\))
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+2 0 obj   % PdfSharp.Pdf.Advanced.PdfCatalog
+<<
+  /Outlines 9 0 R
+  /PageMode /UseOutlines
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+3 0 obj   % PdfSharp.Pdf.PdfPages
+<<
+  /Count 2
+  /Kids [4 0 R 49 0 R]
+  /Type /Pages
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+4 0 obj   % PdfSharp.Pdf.PdfPage
+<<
+  /Annots [16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R 37 0 R 38 0 R 39 0 R 42 0 R 43 0 R 46 0 R 47 0 R 48 0 R]
+  /Contents 5 0 R
+  /Group
+  <<
+    /CS /DeviceRGB
+    /I false
+    /K false
+    /S /Transparency
+  >>
+  /MediaBox [0 0 595.276 841.89]
+  /Parent 3 0 R
+  /Resources
+  <<
+    /ExtGState
+    <<
+      /GS0 6 0 R
+      /GS1 14 0 R
+    >>
+    /Font
+    <<
+      /F0 8 0 R
+      /F1 12 0 R
+    >>
+    /ProcSet [/PDF/Text/ImageB/ImageC/ImageI]
+  >>
+  /Type /Page
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+5 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 13843
+>>
+stream
+q
+1 0 0 -1 0 841.89 cm -100 Tz
+q
+BT
+0.275 0.275 0.275 rg
+/GS0 gs
+/F0 -8 Tf
+70.8661 43.476 Td (MigraDoc) Tj
+40.14 0 Td (DDL) Tj
+19.5933 0 Td (Samples) Tj
+36.98 0 Td (Index) Tj
+123.155 761.301 Td (1) Tj
+5.0867 0 Td (/) Tj
+3.6333 0 Td (2) Tj
+0.118 0.275 0.627 rg
+/F1 -13 Tf
+-228.5883 -720.8411 Td (MigraDoc) Tj
+72.8067 0 Td (DDL) Tj
+34.3067 0 Td (Samples) Tj
+/F0 -8 Tf
+-107.1133 22.7725 Td (The) Tj
+17.5733 0 Td (DDL) Tj
+19.5933 0 Td (samples) Tj
+35.6767 0 Td (demonstrate) Tj
+53.72 0 Td (the) Tj
+15.7967 0 Td (use) Tj
+16.81 0 Td (of) Tj
+10.4833 0 Td (MigraDoc) Tj
+40.14 0 Td (DDL) Tj
+19.5933 0 Td (by) Tj
+12.53 0 Td (examples.) Tj
+43.92 0 Td (This) Tj
+19.17 0 Td (file) Tj
+14.7867 0 Td (gives) Tj
+23.66 0 Td (an) Tj
+12.68 0 Td (overview) Tj
+38.8267 0 Td (and) Tj
+17.6633 0 Td (links) Tj
+21.17 0 Td (to) Tj
+-433.7933 9.7227 Td (the) Tj
+15.7967 0 Td (individual) Tj
+41.23 0 Td (samples.) Tj
+/F1 -8 Tf
+-57.0267 19.4453 Td (Remark:) Tj
+/F0 -8 Tf
+40.7533 0 Td (To) Tj
+12.6 0 Td (use) Tj
+16.81 0 Td (the) Tj
+15.7967 0 Td (hyperlinks,) Tj
+47.04 0 Td (render) Tj
+29.22 0 Td (this) Tj
+17.3933 0 Td (document) Tj
+42.6467 0 Td (into) Tj
+18.0833 0 Td (PDF) Tj
+18.3967 0 Td (and) Tj
+17.6633 0 Td (open) Tj
+22.4833 0 Td (it) Tj
+8.1633 0 Td (with) Tj
+19.7733 0 Td (your) Tj
+20.88 0 Td (PDF) Tj
+18.3967 0 Td (viewer.) Tj
+ET
+0.776 0.831 0.945 rg
+71.866 148.279 211.598 13.723 re
+f
+BT
+0.118 0.275 0.627 rg
+/F1 -8 Tf
+77.2661 158.3217 Td (Document) Tj
+ET
+1 w
+0 J
+0 j
+[]0 d
+0.329 0.455 0.745 RG
+/GS1 gs
+283.965 163.001 m
+283.965 148.279 l
+S
+71.366 163.001 m
+71.366 148.279 l
+S
+284.465 162.501 m
+70.866 162.501 l
+S
+284.465 147.779 m
+70.866 147.779 l
+S
+312.311 163.001 m
+312.311 148.279 l
+S
+283.965 163.001 m
+283.965 148.279 l
+S
+0.776 0.831 0.945 rg
+312.811 148.279 211.598 13.723 re
+f
+BT
+0.118 0.275 0.627 rg
+318.211 158.3217 Td (Sections) Tj
+ET
+524.909 163.001 m
+524.909 148.279 l
+S
+312.311 163.001 m
+312.311 148.279 l
+S
+525.409 162.501 m
+311.811 162.501 l
+S
+525.409 147.779 m
+311.811 147.779 l
+S
+BT
+1 0.69 0.039 rg
+77.2661 179.0444 Td (Document-) Tj
+49.5 0 Td (Style) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-49.5 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (work) Tj
+19.57 0 Td (with) Tj
+17.2967 0 Td (character) Tj
+35.49 0 Td (and) Tj
+15.4533 0 Td (paragraph) Tj
+38.5533 0 Td (style) Tj
+-153.53 8.5073 Td (templates.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+0 15.5127 Td (Document-) Tj
+49.5 0 Td (Styles) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-49.5 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (use) Tj
+14.7067 0 Td (the) Tj
+13.8167 0 Td (predefined) Tj
+39.8467 0 Td (character) Tj
+35.49 0 Td (and) Tj
+15.4533 0 Td (paragraph) Tj
+-146.48 8.5073 Td (styles.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+0 15.5127 Td (Document-) Tj
+49.5 0 Td (Info) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-49.5 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (define) Tj
+23.97 0 Td (document) Tj
+37.3133 0 Td (infos) Tj
+19.1667 0 Td (like) Tj
+14.6133 0 Td (title,) Tj
+18.53 0 Td (author) Tj
+25.5167 0 Td (etc.) Tj
+ET
+283.965 309.166 m
+283.965 163.001 l
+S
+71.366 309.166 m
+71.366 163.001 l
+S
+284.465 308.666 m
+70.866 308.666 l
+S
+284.465 162.501 m
+70.866 162.501 l
+S
+312.311 309.166 m
+312.311 163.001 l
+S
+283.965 309.166 m
+283.965 163.001 l
+S
+BT
+1 0.69 0.039 rg
+/F1 -8 Tf
+318.211 179.0444 Td (Section-) Tj
+37.1133 0 Td (PageLayout) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-37.1133 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (define) Tj
+23.97 0 Td (page) Tj
+19.5533 0 Td (size,) Tj
+18.42 0 Td (orientation) Tj
+40.5333 0 Td (and) Tj
+15.4533 0 Td (margins.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-145.0967 15.5127 Td (Section-) Tj
+37.1133 0 Td (HeaderAndFooter) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-37.1133 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (define) Tj
+23.97 0 Td (headers) Tj
+30.4267 0 Td (and) Tj
+15.4533 0 Td (footers.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-97.0167 15.5127 Td (Section-) Tj
+37.1133 0 Td (PageNumbering) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-37.1133 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (define) Tj
+23.97 0 Td (page) Tj
+19.5533 0 Td (size,) Tj
+18.42 0 Td (orientation) Tj
+40.5333 0 Td (and) Tj
+15.4533 0 Td (margins.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-145.0967 15.5127 Td (Section-) Tj
+37.1133 0 Td (HorizontalPagebreak) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-37.1133 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (spread) Tj
+26.1867 0 Td (wide) Tj
+18.64 0 Td (tables) Tj
+23.5167 0 Td (horizontally) Tj
+43.3467 0 Td (over) Tj
+18.01 0 Td (more) Tj
+20.6767 0 Td (than) Tj
+-177.5433 8.5073 Td (one) Tj
+15.31 0 Td (page.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-15.31 15.5127 Td (Section-) Tj
+37.1133 0 Td (MirrorMargins) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-37.1133 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (toggle) Tj
+24.2767 0 Td (left) Tj
+13.7667 0 Td (and) Tj
+15.4533 0 Td (right) Tj
+18.9133 0 Td (margin) Tj
+27.17 0 Td (on) Tj
+11.14 0 Td (odd) Tj
+15.43 0 Td (and) Tj
+15.4533 0 Td (even) Tj
+-168.77 8.5073 Td (pages.) Tj
+ET
+524.909 309.166 m
+524.909 163.001 l
+S
+312.311 309.166 m
+312.311 163.001 l
+S
+525.409 308.666 m
+311.811 308.666 l
+S
+525.409 162.501 m
+311.811 162.501 l
+S
+284.465 323.389 m
+71.866 323.389 l
+S
+284.465 308.666 m
+71.866 308.666 l
+S
+525.409 323.389 m
+312.811 323.389 l
+S
+525.409 308.666 m
+312.811 308.666 l
+S
+0.776 0.831 0.945 rg
+71.866 323.889 211.598 13.723 re
+f
+BT
+0.118 0.275 0.627 rg
+/F1 -8 Tf
+77.2661 333.9316 Td (Paragraphs) Tj
+ET
+283.965 338.611 m
+283.965 323.889 l
+S
+71.366 338.611 m
+71.366 323.889 l
+S
+284.465 338.111 m
+70.866 338.111 l
+S
+284.465 323.389 m
+70.866 323.389 l
+S
+312.311 338.611 m
+312.311 323.889 l
+S
+283.965 338.611 m
+283.965 323.889 l
+S
+0.776 0.831 0.945 rg
+312.811 323.889 211.598 13.723 re
+f
+BT
+0.118 0.275 0.627 rg
+318.211 333.9316 Td (Tables) Tj
+ET
+524.909 338.611 m
+524.909 323.889 l
+S
+312.311 338.611 m
+312.311 323.889 l
+S
+525.409 338.111 m
+311.811 338.111 l
+S
+525.409 323.389 m
+311.811 323.389 l
+S
+BT
+1 0.69 0.039 rg
+77.2661 354.6542 Td (Paragraph-) Tj
+50.5733 0 Td (SpecialCharacters) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-50.5733 8.7173 Td (How) Tj
+17.7 0 Td (insert) Tj
+22.37 0 Td (special) Tj
+26.3267 0 Td (characters.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-66.3967 15.5127 Td (Paragraph-) Tj
+50.5733 0 Td (Font) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-50.5733 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (format) Tj
+25.9267 0 Td (fonts) Tj
+20.0033 0 Td (in) Tj
+8.81 0 Td (paragraphs.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-81.9067 15.5127 Td (Paragraph-) Tj
+50.5733 0 Td (Layout) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-50.5733 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (format) Tj
+25.9267 0 Td (a) Tj
+6.6633 0 Td (paragraph.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-59.7567 15.5127 Td (Paragraph-) Tj
+50.5733 0 Td (Tabs) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-50.5733 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (use) Tj
+14.7067 0 Td (tab) Tj
+13.78 0 Td (stops.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-55.6533 15.5127 Td (Paragraph-) Tj
+50.5733 0 Td (Spaces) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-50.5733 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (use) Tj
+14.7067 0 Td (non) Tj
+15.57 0 Td (breakable) Tj
+36.9767 0 Td (spaces.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-94.42 15.5127 Td (Paragraph-) Tj
+50.5733 0 Td (PageBreakControl) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-50.5733 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (control) Tj
+26.7 0 Td (automatic) Tj
+37.4367 0 Td (page) Tj
+19.5533 0 Td (break.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-110.8567 15.5127 Td (Paragraph-) Tj
+50.5733 0 Td (OutlineLevel) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-50.5733 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (create) Tj
+24.3933 0 Td (PDF) Tj
+16.0967 0 Td (bookmarks) Tj
+41.2533 0 Td (using) Tj
+21.2467 0 Td (the) Tj
+13.8167 0 Td (outline) Tj
+26.3367 0 Td (level.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-170.31 15.5127 Td (Paragraph-) Tj
+50.5733 0 Td (Fields) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-50.5733 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (use) Tj
+14.7067 0 Td (fields) Tj
+20.9367 0 Td (for) Tj
+12.1567 0 Td (referencing) Tj
+42.19 0 Td (page) Tj
+19.5533 0 Td (numbers) Tj
+33.2933 0 Td (etc.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-170.0033 15.5127 Td (Paragraph-) Tj
+50.5733 0 Td (Hyperlinks) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-50.5733 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (use) Tj
+14.7067 0 Td (hyperlinks) Tj
+38.61 0 Td (in) Tj
+8.81 0 Td (conjunction) Tj
+43.06 0 Td (with) Tj
+17.2967 0 Td (bookmarks.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-149.65 15.5127 Td (Paragraph-) Tj
+50.5733 0 Td (Footnotes) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-50.5733 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (deal) Tj
+17.1133 0 Td (with) Tj
+17.2967 0 Td (footnotes.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-61.5767 15.5127 Td (Paragraph-) Tj
+50.5733 0 Td (Hyphenation) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-50.5733 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (use) Tj
+14.7067 0 Td (soft) Tj
+15.5733 0 Td (hyphens.) Tj
+ET
+283.965 613.141 m
+283.965 338.611 l
+S
+71.366 613.141 m
+71.366 338.611 l
+S
+284.465 612.641 m
+70.866 612.641 l
+S
+284.465 338.111 m
+70.866 338.111 l
+S
+312.311 613.141 m
+312.311 338.611 l
+S
+283.965 613.141 m
+283.965 338.611 l
+S
+BT
+1 0.69 0.039 rg
+/F1 -8 Tf
+318.211 354.6542 Td (Table-) Tj
+28.2767 0 Td (Layout) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-28.2767 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (layout) Tj
+24.1633 0 Td (tables.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-51.33 15.5127 Td (Table-) Tj
+28.2767 0 Td (CellLayout) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-28.2767 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (use) Tj
+14.7067 0 Td (cell) Tj
+14.1167 0 Td (alignment) Tj
+37.46 0 Td (and) Tj
+15.4533 0 Td (padding.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-108.9033 15.5127 Td (Table-) Tj
+28.2767 0 Td (Inheritance) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-28.2767 8.7173 Td (How) Tj
+17.7 0 Td (inheritance) Tj
+41.5233 0 Td (of) Tj
+9.17 0 Td (column) Tj
+27.9467 0 Td (and) Tj
+15.4533 0 Td (row) Tj
+15.4267 0 Td (attributes) Tj
+36.4467 0 Td (work.) Tj
+ET
+524.909 613.141 m
+524.909 338.611 l
+S
+312.311 613.141 m
+312.311 338.611 l
+S
+525.409 612.641 m
+311.811 612.641 l
+S
+525.409 338.111 m
+311.811 338.111 l
+S
+284.465 627.364 m
+71.866 627.364 l
+S
+284.465 612.641 m
+71.866 612.641 l
+S
+525.409 627.364 m
+312.811 627.364 l
+S
+525.409 612.641 m
+312.811 612.641 l
+S
+0.776 0.831 0.945 rg
+71.866 627.864 211.598 13.723 re
+f
+BT
+0.118 0.275 0.627 rg
+/F1 -8 Tf
+77.2661 637.9067 Td (Shapes) Tj
+ET
+283.965 642.586 m
+283.965 627.864 l
+S
+71.366 642.586 m
+71.366 627.864 l
+S
+284.465 642.086 m
+70.866 642.086 l
+S
+284.465 627.364 m
+70.866 627.364 l
+S
+312.311 642.586 m
+312.311 627.864 l
+S
+283.965 642.586 m
+283.965 627.864 l
+S
+0.776 0.831 0.945 rg
+312.811 627.864 211.598 13.723 re
+f
+BT
+0.118 0.275 0.627 rg
+318.211 637.9067 Td (Images) Tj
+ET
+524.909 642.586 m
+524.909 627.864 l
+S
+312.311 642.586 m
+312.311 627.864 l
+S
+525.409 642.086 m
+311.811 642.086 l
+S
+525.409 627.364 m
+311.811 627.364 l
+S
+BT
+1 0.69 0.039 rg
+77.2661 658.6293 Td (Shape-) Tj
+31.4733 0 Td (Layout) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-31.4733 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (use) Tj
+14.7067 0 Td (the) Tj
+13.8167 0 Td (common) Tj
+32.6567 0 Td (layout) Tj
+24.1633 0 Td (option) Tj
+24.4267 0 Td (for) Tj
+12.1567 0 Td (all) Tj
+10.5033 0 Td (types) Tj
+21.5367 0 Td (of) Tj
+-181.1333 8.5073 Td (shapes.) Tj
+ET
+283.965 683.324 m
+283.965 642.586 l
+S
+71.366 683.324 m
+71.366 642.586 l
+S
+284.465 682.824 m
+70.866 682.824 l
+S
+284.465 642.086 m
+70.866 642.086 l
+S
+312.311 683.324 m
+312.311 642.586 l
+S
+283.965 683.324 m
+283.965 642.586 l
+S
+BT
+1 0.69 0.039 rg
+/F1 -8 Tf
+318.211 658.6293 Td (Image-) Tj
+32.92 0 Td (Layout) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-32.92 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (place) Tj
+20.76 0 Td (images.) Tj
+ET
+524.909 683.324 m
+524.909 642.586 l
+S
+312.311 683.324 m
+312.311 642.586 l
+S
+525.409 682.824 m
+311.811 682.824 l
+S
+525.409 642.086 m
+311.811 642.086 l
+S
+284.465 697.546 m
+71.866 697.546 l
+S
+284.465 682.824 m
+71.866 682.824 l
+S
+525.409 697.546 m
+312.811 697.546 l
+S
+525.409 682.824 m
+312.811 682.824 l
+S
+0.776 0.831 0.945 rg
+71.866 698.046 211.598 13.723 re
+f
+BT
+0.118 0.275 0.627 rg
+/F1 -8 Tf
+77.2661 708.0893 Td (Text) Tj
+22.4933 0 Td (Frames) Tj
+ET
+283.965 712.769 m
+283.965 698.046 l
+S
+71.366 712.769 m
+71.366 698.046 l
+S
+284.465 712.269 m
+70.866 712.269 l
+S
+284.465 697.546 m
+70.866 697.546 l
+S
+312.311 712.769 m
+312.311 698.046 l
+S
+283.965 712.769 m
+283.965 698.046 l
+S
+0.776 0.831 0.945 rg
+312.811 698.046 211.598 13.723 re
+f
+BT
+0.118 0.275 0.627 rg
+318.211 708.0893 Td (Charts) Tj
+ET
+524.909 712.769 m
+524.909 698.046 l
+S
+312.311 712.769 m
+312.311 698.046 l
+S
+525.409 712.269 m
+311.811 712.269 l
+S
+525.409 697.546 m
+311.811 697.546 l
+S
+BT
+1 0.69 0.039 rg
+77.2661 728.8119 Td (TextFrame-) Tj
+51.9 0 Td (Layout) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-51.9 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (use) Tj
+14.7067 0 Td (text) Tj
+16.2867 0 Td (frames.) Tj
+ET
+283.965 769.229 m
+283.965 712.769 l
+S
+71.366 769.229 m
+71.366 712.769 l
+S
+284.465 768.729 m
+70.866 768.729 l
+S
+284.465 712.269 m
+70.866 712.269 l
+S
+312.311 769.229 m
+312.311 712.769 l
+S
+283.965 769.229 m
+283.965 712.769 l
+S
+BT
+1 0.69 0.039 rg
+/F1 -8 Tf
+318.211 728.8119 Td (Chart-) Tj
+28.2933 0 Td (Layout) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-28.2933 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (use) Tj
+14.7067 0 Td (the) Tj
+13.8167 0 Td (different) Tj
+32.1733 0 Td (areas) Tj
+21.67 0 Td (of) Tj
+9.17 0 Td (a) Tj
+6.6633 0 Td (chart) Tj
+20.4833 0 Td (shape.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-145.85 15.5127 Td (Chart-) Tj
+28.2933 0 Td (Types) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-28.2933 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (specify) Tj
+26.8067 0 Td (the) Tj
+13.8167 0 Td (different) Tj
+32.1733 0 Td (chart) Tj
+20.4833 0 Td (types.) Tj
+ET
+524.909 769.229 m
+524.909 712.769 l
+S
+312.311 769.229 m
+312.311 712.769 l
+S
+525.409 768.729 m
+311.811 768.729 l
+S
+525.409 712.269 m
+311.811 712.269 l
+S
+284.465 783.452 m
+71.866 783.452 l
+S
+284.465 768.729 m
+71.866 768.729 l
+S
+525.409 783.452 m
+312.811 783.452 l
+S
+525.409 768.729 m
+312.811 768.729 l
+S
+Q
+Q
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+6 0 obj   % PdfSharp.Pdf.Advanced.PdfExtGState
+<<
+  /ca 1
+  /Type /ExtGState
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+7 0 obj   % PdfSharp.Pdf.Advanced.PdfFontDescriptor
+<<
+  /Ascent 1005
+  /CapHeight 1005
+  /Descent -210
+  /Flags 32
+  /FontBBox [-50 -207 1447 1000]
+  /FontFile2 59 0 R
+  /FontName /IIYQEN+Verdana
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+  /XHeight 663
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+8 0 obj   % PdfSharp.Pdf.Advanced.PdfTrueTypeFont
+<<
+  /BaseFont /IIYQEN+Verdana
+  /Encoding /WinAnsiEncoding
+  /FirstChar 0
+  /FontDescriptor 7 0 R
+  /LastChar 255
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 351 393 458 818 635 1076 726 268 454 454 635 818 363 454 363 454 635 635 635 635 635 635 635 635 635 635 454 454 818 818 818 545 1000 683 685 698 770 632 574 775 751 420 454 692 556 842 748 787 603 787 695 683 616 731 683 988 685 615 685 454 454 454 818 635 635 600 623 520 623 595 351 623 632 274 344 591 274 972 632 606 623 623 426 520 394 632 591 818 591 591 525 634 454 634 818 1000 635 1000 268 635 458 818 635 635 635 1521 683 454 1069 1000 685 1000 1000 268 268 458 458 545 635 1000 635 976 520 454 981 1000 525 615 351 393 635 635 635 635 454 635 635 1000 545 644 818 454 1000 635 541 818 541 541 635 641 635 363 635 541 545 644 1000 1000 1000 545 683 683 683 683 683 683 984 698 632 632 632 632 420 420 420 420 775 748 787 787 787 787 787 818 787 731 731 731 731 615 605 620 600 600 600 600 600 600 955 520 595 595 595 595 274 274 274 274 611 632 606 606 606 606 606 818 606 632 632 632 632 591 623 591]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+9 0 obj   % PdfSharp.Pdf.PdfOutline
+<<
+  /Count 11
+  /First 10 0 R
+  /Last 10 0 R
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+10 0 obj   % PdfSharp.Pdf.PdfOutline
+<<
+  /Count 10
+  /Dest [4 0 R /XYZ null null 0]
+  /First 13 0 R
+  /Last 52 0 R
+  /Parent 9 0 R
+  /Title (MigraDoc DDL Samples)
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+11 0 obj   % PdfSharp.Pdf.Advanced.PdfFontDescriptor
+<<
+  /Ascent 1005
+  /CapHeight 1005
+  /Descent -210
+  /Flags 32
+  /FontBBox [-73 -208 1707 1000]
+  /FontFile2 60 0 R
+  /FontName /WGGQAM+Verdana,Bold
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+  /XHeight 663
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+12 0 obj   % PdfSharp.Pdf.Advanced.PdfTrueTypeFont
+<<
+  /BaseFont /WGGQAM+Verdana,Bold
+  /Encoding /WinAnsiEncoding
+  /FirstChar 0
+  /FontDescriptor 11 0 R
+  /LastChar 255
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 341 402 587 867 710 1271 862 332 543 543 710 867 361 479 361 689 710 710 710 710 710 710 710 710 710 710 402 402 867 867 867 616 963 776 761 723 830 683 650 811 837 545 555 770 637 947 846 850 732 850 782 710 681 812 763 1128 763 736 691 543 689 543 867 710 710 667 699 588 699 664 422 699 712 341 402 670 341 1058 712 686 699 699 497 593 455 712 649 979 668 650 596 710 543 710 867 1000 710 1000 332 710 587 1048 710 710 710 1777 710 543 1135 1000 691 1000 1000 332 332 587 587 710 710 1000 710 963 593 543 1067 1000 596 736 341 402 710 710 710 710 543 710 710 963 597 849 867 479 963 710 587 867 597 597 710 721 710 361 710 597 597 849 1181 1181 1181 616 776 776 776 776 776 776 1093 723 683 683 683 683 545 545 545 545 830 846 850 850 850 850 850 867 850 812 812 812 812 736 734 712 667 667 667 667 667 667 1018 588 664 664 664 664 341 341 341 341 679 712 686 686 686 686 686 867 686 712 712 712 712 650 699 650]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+13 0 obj   % PdfSharp.Pdf.PdfOutline
+<<
+  /Dest [4 0 R /XYZ null null 0]
+  /Next 15 0 R
+  /Parent 10 0 R
+  /Title (Document)
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+14 0 obj   % PdfSharp.Pdf.Advanced.PdfExtGState
+<<
+  /CA 1
+  /Type /ExtGState
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+15 0 obj   % PdfSharp.Pdf.PdfOutline
+<<
+  /Dest [4 0 R /XYZ null null 0]
+  /Next 24 0 R
+  /Parent 10 0 R
+  /Prev 13 0 R
+  /Title (Sections)
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+16 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Document-Style.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (0013c0e5-e4be-4cfb-a80d-96d5702658db)
+  /Rect [77.266 661.166 149.346 670.888]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+17 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Document-Styles.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (9050e091-0c28-4805-9b56-a638b00fb8a6)
+  /Rect [77.266 628.428 154.093 638.151]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+18 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Document-Info.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (feddfff4-fcb4-4bb0-a6bf-4f5e096797fa)
+  /Rect [77.266 595.691 145.706 605.414]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+19 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Section-PageLayout.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (2cdb6313-939b-48d4-b588-27dc2408cf02)
+  /Rect [318.211 661.166 407.921 670.888]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+20 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Section-HeaderAndFooter.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (9aac0206-c5b4-429c-9932-6703b2b7d752)
+  /Rect [318.211 636.936 434.191 646.658]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+21 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Section-PageNumbering.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (a64fa851-8028-4432-b613-b61b255c9e6c)
+  /Rect [318.211 612.706 427.284 622.428]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+22 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Section-HorizontalPagebreak.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (47eef562-8903-41a0-b2e4-fe3bff58ff3c)
+  /Rect [318.211 588.476 449.621 598.198]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+23 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Section-MirrorMargins.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (6090248c-35c4-41c6-ab4e-f6544e2cf155)
+  /Rect [318.211 555.738 418.741 565.461]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+24 0 obj   % PdfSharp.Pdf.PdfOutline
+<<
+  /Dest [4 0 R /XYZ null null 0]
+  /Next 25 0 R
+  /Parent 10 0 R
+  /Prev 15 0 R
+  /Title (Paragraphs)
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+25 0 obj   % PdfSharp.Pdf.PdfOutline
+<<
+  /Dest [4 0 R /XYZ null null 0]
+  /Next 40 0 R
+  /Parent 10 0 R
+  /Prev 24 0 R
+  /Title (Tables)
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+26 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Paragraph-SpecialCharacters.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (35606eee-495d-4ae1-9d10-21838b0ecbe4)
+  /Rect [77.266 485.556 208.486 495.279]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+27 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Paragraph-Font.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (fc6e8760-8899-4727-8b5d-962239e610f4)
+  /Rect [77.266 461.326 147.879 471.049]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+28 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Paragraph-Layout.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (640fe259-681f-49d7-a0bb-74eaba86aa32)
+  /Rect [77.266 437.096 158.323 446.819]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+29 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Paragraph-Tabs.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (000ae934-c292-484f-a071-5faad175def4)
+  /Rect [77.266 412.866 148.976 422.589]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+30 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Paragraph-Spaces.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (e6486653-981a-4018-914f-a531ce883242)
+  /Rect [77.266 388.636 159.226 398.359]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+31 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Paragraph-PageBreakControl.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (d454dc2a-881c-4920-95c2-bc9953fbfbe2)
+  /Rect [77.266 364.406 208.876 374.129]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+32 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Paragraph-OutlineLevel.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (ed9470f5-2e77-4172-aa99-d74d3e096552)
+  /Rect [77.266 340.176 184.119 349.899]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+33 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Paragraph-Fields.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (c50f64af-6f4b-4bf6-ba30-d044f7971ce1)
+  /Rect [77.266 315.946 154.163 325.669]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+34 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Paragraph-Hyperlinks.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (fa81cd38-d31a-410a-a64d-1c3fca1e1d9b)
+  /Rect [77.266 291.716 175.909 301.439]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+35 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Paragraph-Footnotes.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (943d4a7f-423f-4fd1-b564-ea1247fedc70)
+  /Rect [77.266 267.486 172.569 277.209]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+36 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Paragraph-Hyphenation.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (72c9f0c6-1e2e-4abd-9371-26bdcc71eba5)
+  /Rect [77.266 243.256 184.966 252.979]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+37 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Table-Layout.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (09f99195-44f0-4135-b822-6e4c15e15fb4)
+  /Rect [318.211 485.556 376.971 495.279]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+38 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Table-CellLayout.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (1d0063e2-81ba-4271-80b2-6e71d443ebf8)
+  /Rect [318.211 461.326 393.541 471.049]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+39 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Table-Inheritance.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (19128ff5-55ac-400f-b018-c6001dbda86e)
+  /Rect [318.211 437.096 398.984 446.819]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+40 0 obj   % PdfSharp.Pdf.PdfOutline
+<<
+  /Dest [4 0 R /XYZ null null 0]
+  /Next 41 0 R
+  /Parent 10 0 R
+  /Prev 25 0 R
+  /Title (Shapes)
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+41 0 obj   % PdfSharp.Pdf.PdfOutline
+<<
+  /Dest [4 0 R /XYZ null null 0]
+  /Next 44 0 R
+  /Parent 10 0 R
+  /Prev 40 0 R
+  /Title (Images)
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+42 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Shape-Layout.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (307c261e-0523-423a-b451-fc37f7f9e276)
+  /Rect [77.266 181.581 139.223 191.303]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+43 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Image-Layout.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (b1e84189-c698-4161-8f8a-bc0cb78cea9c)
+  /Rect [318.211 181.581 381.614 191.303]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+44 0 obj   % PdfSharp.Pdf.PdfOutline
+<<
+  /Dest [4 0 R /XYZ null null 0]
+  /Next 45 0 R
+  /Parent 10 0 R
+  /Prev 41 0 R
+  /Title (Text Frames)
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+45 0 obj   % PdfSharp.Pdf.PdfOutline
+<<
+  /Dest [4 0 R /XYZ null null 0]
+  /Next 51 0 R
+  /Parent 10 0 R
+  /Prev 44 0 R
+  /Title (Charts)
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+46 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(TextFrame-Layout.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (3ba17a85-4af7-476f-9052-74adb49488a4)
+  /Rect [77.266 111.398 159.649 121.121]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+47 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Chart-Layout.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (20ad4e97-ad44-458f-9da6-d880d9bff76b)
+  /Rect [318.211 111.398 376.988 121.121]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+48 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Chart-Types.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (9127da83-77b2-4c7b-ae7a-02c037f2a703)
+  /Rect [318.211 87.168 372.818 96.891]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+49 0 obj   % PdfSharp.Pdf.PdfPage
+<<
+  /Annots [53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R]
+  /Contents 50 0 R
+  /Group
+  <<
+    /CS /DeviceRGB
+    /I false
+    /K false
+    /S /Transparency
+  >>
+  /MediaBox [0 0 595.276 841.89]
+  /Parent 3 0 R
+  /Resources
+  <<
+    /ExtGState
+    <<
+      /GS0 6 0 R
+      /GS1 14 0 R
+    >>
+    /Font
+    <<
+      /F0 8 0 R
+      /F1 12 0 R
+    >>
+    /ProcSet [/PDF/Text/ImageB/ImageC/ImageI]
+  >>
+  /Type /Page
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+50 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 2811
+>>
+stream
+q
+1 0 0 -1 0 841.89 cm -100 Tz
+q
+BT
+0.275 0.275 0.275 rg
+/GS0 gs
+/F0 -8 Tf
+70.8661 43.476 Td (MigraDoc) Tj
+40.14 0 Td (DDL) Tj
+19.5933 0 Td (Samples) Tj
+36.98 0 Td (Index) Tj
+123.155 761.301 Td (2) Tj
+5.0867 0 Td (/) Tj
+3.6333 0 Td (2) Tj
+ET
+0.776 0.831 0.945 rg
+71.866 71.866 211.598 13.723 re
+f
+BT
+0.118 0.275 0.627 rg
+/F1 -8 Tf
+77.2661 81.9091 Td (Attributes) Tj
+ET
+1 w
+0 J
+0 j
+[]0 d
+0.329 0.455 0.745 RG
+/GS1 gs
+283.965 86.589 m
+283.965 71.866 l
+S
+71.366 86.589 m
+71.366 71.866 l
+S
+284.465 86.089 m
+70.866 86.089 l
+S
+284.465 71.366 m
+70.866 71.366 l
+S
+312.311 86.589 m
+312.311 71.866 l
+S
+283.965 86.589 m
+283.965 71.866 l
+S
+0.776 0.831 0.945 rg
+312.811 71.866 211.598 13.723 re
+f
+BT
+0.118 0.275 0.627 rg
+318.211 81.9091 Td (Various) Tj
+ET
+524.909 86.589 m
+524.909 71.866 l
+S
+312.311 86.589 m
+312.311 71.866 l
+S
+525.409 86.089 m
+311.811 86.089 l
+S
+525.409 71.366 m
+311.811 71.366 l
+S
+BT
+1 0.69 0.039 rg
+77.2661 102.6318 Td (Attributes-) Tj
+49.0433 0 Td (Color) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-49.0433 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (define) Tj
+23.97 0 Td (a) Tj
+6.6633 0 Td (color.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-57.8 15.5127 Td (Attributes-) Tj
+49.0433 0 Td (Border) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-49.0433 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (define) Tj
+23.97 0 Td (different) Tj
+32.1733 0 Td (border) Tj
+25.5733 0 Td (styles.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-108.8833 15.5127 Td (Attributes-) Tj
+49.0433 0 Td (Shading) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-49.0433 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (define) Tj
+23.97 0 Td (different) Tj
+32.1733 0 Td (shading) Tj
+29.81 0 Td (styles.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-113.12 15.5127 Td (Attributes-) Tj
+49.0433 0 Td (LineAndFillFormat) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-49.0433 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (define) Tj
+23.97 0 Td (line) Tj
+14.9 0 Td (and) Tj
+15.4533 0 Td (fill) Tj
+10.68 0 Td (format) Tj
+25.9267 0 Td (of) Tj
+9.17 0 Td (shapes.) Tj
+1 0.69 0.039 rg
+/F1 -8 Tf
+-127.2667 15.5127 Td (Attributes-) Tj
+49.0433 0 Td (Units) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+-49.0433 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (define) Tj
+23.97 0 Td (different) Tj
+32.1733 0 Td (units) Tj
+19.6433 0 Td (of) Tj
+9.17 0 Td (measure.) Tj
+ET
+283.965 215.739 m
+283.965 86.589 l
+S
+71.366 215.739 m
+71.366 86.589 l
+S
+284.465 215.239 m
+70.866 215.239 l
+S
+284.465 86.089 m
+70.866 86.089 l
+S
+312.311 215.739 m
+312.311 86.589 l
+S
+283.965 215.739 m
+283.965 86.589 l
+S
+BT
+1 0.69 0.039 rg
+/F1 -8 Tf
+318.211 102.6318 Td (Barcode) Tj
+0.118 0.275 0.627 rg
+/F0 -7 Tf
+0 8.7173 Td (How) Tj
+17.7 0 Td (to) Tj
+9.4667 0 Td (define) Tj
+23.97 0 Td (barcodes.) Tj
+ET
+524.909 215.739 m
+524.909 86.589 l
+S
+312.311 215.739 m
+312.311 86.589 l
+S
+525.409 215.239 m
+311.811 215.239 l
+S
+525.409 86.089 m
+311.811 86.089 l
+S
+Q
+Q
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+51 0 obj   % PdfSharp.Pdf.PdfOutline
+<<
+  /Dest [49 0 R /XYZ null null 0]
+  /Next 52 0 R
+  /Parent 10 0 R
+  /Prev 45 0 R
+  /Title (Attributes)
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+52 0 obj   % PdfSharp.Pdf.PdfOutline
+<<
+  /Dest [49 0 R /XYZ null null 0]
+  /Parent 10 0 R
+  /Prev 51 0 R
+  /Title (Various)
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+53 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Attributes-Color.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (45b848c0-6da0-4961-aff9-5e2e2b8eb448)
+  /Rect [77.266 737.578 149.796 747.301]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+54 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Attributes-Border.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (453192f0-9b0e-4324-b7c5-203df17a7c75)
+  /Rect [77.266 713.348 156.756 723.071]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+55 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Attributes-Shading.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (fad4060b-0230-4693-ae1b-8d807a13b49a)
+  /Rect [77.266 689.118 162.656 698.841]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+56 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Attributes-LineAndFillFormat.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (2b98a48a-6536-489a-90e9-a62118d83e25)
+  /Rect [77.266 664.888 208.183 674.611]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+57 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Attributes-Units.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (84c2c175-4925-4afa-a3eb-476fc9710cc3)
+  /Rect [77.266 640.658 149.629 650.381]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+58 0 obj   % PdfSharp.Pdf.Annotations.PdfLinkAnnotation
+<<
+  /A <</Type/Action/S/Launch/F<</Type/Filespec/F(Barcode.pdf)>> >>
+  /Border [0 0 0]
+  /BS <</Type/Border>>
+  /M (D:20091130141757+01'00')
+  /NM (ab7283da-c6a5-4777-a880-97810cc0df29)
+  /Rect [318.211 737.578 354.731 747.301]
+  /Subtype /Link
+  /Type /Annot
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+59 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 11320
+  /Length1 20224
+>>
+stream
+xœí|y`Eûÿ33»›Í´IÚ¦G’†´”–^€º@Ô‚åj¹”û¤œ¢Eå^Q<ñ¾¥D
+Uñ@ÁûDTÄãå«È«Ø&¿g&I-¨ïû~¿¿İevfgwgŸùÌç9f6 `0ğNœ5¾îëA7Ü€5O (k'.œïx_o
+ ë@n›R7uV×!G;¨GğüìÔ™‹§L_XˆÈ>9mòøI¯}³ù.€âl£xVÄöĞã½Å_ãy‡i³æ/zYÛ «	À|fæì‰ãklµg Êñ²Ò2kü¢:ùö9@eVxëæN®[<ùıÀÀ$ úÖQ!/€åÅqcR R‰9÷œ¿áE&ÉŠNÕŒ&³Åj³ÇÄ:œ®¸øwbRrŠÇëKõwHKÏÈì˜•İ)§sn^—ü‚Â¢â®İº_Ô£¤g¯R­wŸ¾eåıú¨¸¸rà Kª:lxuÍˆ‘£F¹40v\íx˜0qÒä)S§MŸqÙÌY—Ï®›3wŞü¯X´xÉ•K¯ºº~Ù5×^·|ÅÊU«¯_sÃÚ×İ´şæÿqË¦[oÛ|ûwŞu÷=[î½ïş|èáG}ìqöÄ“OmmØÖ¸}ÇÓ;ŸÙÕ´{Oó³Ï=¿÷…}û¼xğ¥C/¿òêk‡_ã}ó­·ßy÷½÷?øğ£?9ö)Hò\ìérG$¸šÔ“ä^Ò@Bô%ú2ı„Æ˜ùÙÕl[Ëîe¯K&©JºT'İœ²"åW¯Ó›âMõ¦{ó¼Ş‹¼%Ş^Ş2o½÷ïÃŞ'|²/Öçò¥úÒ}}cSiª’jMIu¦ºSSR³S¤Ö¦NN»7íñ´WÒŞH;yš6ÿFC!>~°¥ØB¶’sô Jñ>ƒ6)–£ëØı‘,Òi¬´>eYÊo¬7ÎëRä{»·Iq?JñøyRŒ‰HaG)Ú¤˜„R<‘‚œ–~#¡P9rÀC°9´ hÅ³°(Ô;”Ù²Ïã8=Z?h}¿õ½Öw[úÂ¥ÌñÇoùL|ùñ_?«9~Åñg°f=¦nÇ³?ó:ãÓÅÇ§/9¶éØ}ÇPW=„iş±9ÇÆË=–÷Ñİmúğûæ}°= ?'¨ym´]Ú-œÎ;ïC§µ§+md“Ø4¶ğ›NÜØÈpúÓkeáîGv¬`Kaœ„•°n€»àQx l°E¼6Âiø¸n…Õ„ÀÇğÜÁOğ#œûĞ‚ƒğ$L€‰°&Á+0^‚—áux^ƒÃğL£ğ§`*|7ÃÛğ&¼Óàø'\3`:\³`&\[`6Ì:˜ó`Ì‡…p|‹`	,†+á*X
+ÏÀ½PW#›¯oá;h"e¤œPÂˆDdøZH?ÒŸ Ğ
+A¢Q!D.&•d D.!UDOÄHLd0gá_d(F†“jRCF‘dMÆKI€Œ%ãH-¿À;¤éN&‰d™L¦3±©d±±“8Ÿ‘Xâ ÓÉâ$.r¹ŒÌ$³Èåd6©#q$¶BI n2‡Ì%‰$‰$“2Ì‡_á|_ñI%ÈBrYD“%äJ²”øI’FÒÉU„ëí2r¹v“’I:’,8_’ëà]ø>€á#8ïÁ'ä.r7¹‡¬Aíº—ÜG ’‡ÈÃä’M%‘ÇÉ¤y’<…º×@¶‘F²ì O“ä²‹ä&²›ì!ÍäYòyì%/}¤3ÙO\’G^$ÉKäy™¼B^%¯‘Ãäuzyƒ!]H>9J
+È›ä-ò6y‡¼KŞ#ï“h€¥ãh-O'Ğ‰tL§Ğ©tNgĞËèL:‹^NgÓ::‡Î¥óè|º€.¤WĞEt1]B¯¤KéUôjZO—Ñkèµô:ºœ® +é*ºšdƒØ%¬ŠfCØP6ŒgÕ¬†`#Ù(6ša—² ËÆ±Z6M`Qo&³)l*jÏt6ƒ]Æf²Yìr6›Õ±9äf²ÍgØBv[ÄÃ6h¤İH!<;a?ÙÛa@M}VÁÏä¶ša3œ‚}ğ ¹ƒÜI{ĞÚ“ö¢¥T£½i%EqÈ§å£ÒR)À>A-‚ĞW¡Ï‚‹‚“‚£Ø?Àƒ:·	õ§	µæõ6elÆÖø¶a/jNûíøÚ©×pŒh«»uğqh8ï¾õ¢öÔİ§Pæİ°ëV£¾İr¯İ¶ÍÆ~Üw ¶½E’#uû©ƒ„%øLô(²s¸¡”Á¥¨‹W£]h„Cd ÖõÄºÁX;õrÖ6¡şÿqë	5@İ¾ÑlBäø–…µÃÑBÌuámêöõ¨ÓÃ”k	Jv3Üş'í]C}Ô‡áK|òr=ˆ=zV(ŒP@>ÊQ•[}†ö{Règ4mèz½¶Ò0P³TïZœæ‰1›d‰vò6°´r¹ü´5ŞòiŞ5ş²Ú²œN•CG–—%ú|£r:y±ºÌÛ@j½åıN‹_SÎohˆÉn iå<ÍhĞn¨Å‚¿Ìçóá•Øß¯ì
+í]ÛîÒ6ÀwM>’¿’§ÚiŞ	/ŠC"ÖD$à×¦ÕâÑ_†üiıy"öó÷«]³¦ŸßÛoMíšñ»BË&ø½6ÿšm••kêÊk½0xdÁúİ7$6ô[;ªÁV;\„=ãBô:²4ÑgÇV*‡ù+‡Œé-_Si7RÓ-|¶BŸm~²zÈ6¬6zd’Ú»zøÈFJhßÚ>£¶uÀk#›¼ š¨¥¼–Wò/?J‚R7RUÜŸØ¤,W%Q!Î'î" êÔh‰»h¸Î­£X'…ë4QÇ7„Šö>²½Ô˜¸ìHÊ­Ãôu:p<£P	xÊ=üÉaqè’ç³ûìix x×¹eÜ‘`Xà1âÆà:ZŠšÂ HKw“,’M‹ ;-‡´FÑIHË™‰RV#!©»Ÿ(ÈÛ™üÜ.y$ 'şXZ<¹á)’Ü:‡ŞÄÛlÅÃw¢MïNZƒN*‡ì
+}­¬VZKJÑ£å²OAé)”Ío/ ßığŞMBŸ°KãkiŒ€Œş&tƒ
+(C6½ÇJôo1”åâĞğƒæ¢$¥¹dÕ©Àª½(a—¶<I_Q¿4ë0 Ä…r—Èï‚VkEr?E11@T«İc§2õX‰Õj²˜L&Zm1›LJµÅKK…õdÌd³Ñj¶+t\3rá™K¯çg´d£K)ü)¦˜Íx´™Í
+y,7;²
+NegwÏÏä ´5¿´ —÷ÚW„ãQ”_Üµ¸¸kİ'•´|HŠƒ¯”®Oë\$İAònc'W;	ƒzŸÛ‡ı¼{p³|#ËÏ´!ƒ=µ*3ÅîbN{{¹›¹ÈRš\šÒİS)0—[ª’«R*<ãX@
+Ècô5öq	cIã’Ç¥Ì`“”Éö	ÎÙ)ut¾½Ş]ŸTŸ’†½ùzšò1*å%°Ú¬9jnRU³*V÷Ø;«Õxq,¥‹‰ê¡ªÏeâ ¸L—Äqqhø.oÉåòŞ«'•"›}¶³ˆ?lNÅtœ*ÀsC< BSÌa)*L÷§*:?äKN‡¢SÄ?Ÿts‹mú[cö®Û|ı˜·'úŸšı%‘²³2¦W^vb"ó½cÔîêç_§õyÓÑ'ÏVoìÓkQÅô‡£n¡-—ÑZ š5÷˜Š˜étšYrª,®P§.bu‚9(¼;°+ôùŞG,œÙÁ»‰…owğşè)r˜ï±zr=‹çĞYøãº]¡–¼,|æÎÃôâü{ñ¼7Äyƒ…ÿÙÁÛá…4İÌÛÙ(N¢åSH S\g0~sPÄÂÊ—â\1ºÂôŒôt?ª’`”Ü¸mã”ßW“ù2ê¶ÇŞX²xäÁ5»wßôÎ¨Ù³éW¯w)í&-í:.xàİ­§Ëó3~».«{ÿ¯¹î"FR=b¤‡;å"äÄ^ÍÉÅ§TGŠT¦SU)cØÿ·5·èÿ$£ÕH¨L¸ìòÿ	€ãQ ¾‹ `ø€Öìü€íL6JK‘2¹ÙìºÓg÷£êÔ·ZéªÖÅÙ3²/xiCk
+î‡Ü‹Fø¼‘©¼.1’ªM¥ª*tŒÈª:ÌxIÈ=:·CŒ=ìÈğŸËjtğµâŞÁ«è¬Ğ™Ef«Y363•9ä]¡7ESr¹Y4%G{/GñŞ/ä™¦v0ä~?Á3(-)-A4æd‡­(-‰½@îq°5áàAúÕAúAk†|´u€x\ÖòÇdÍ¯—òf`ùD5Ï2¨ÆÑ“éèˆµ3	Ë¶+tL0'vD¬^PÊ¸|ÂâÍj“ïL¾­ÓI¡Ï­ù|€|Ev‘Ï‰bÑwZwìßOîß›tïm·ı6.Â³…(vR&¡—àö'Œ%è¬:"9ˆ ‰bHÚ0$C…DÁÄÂ7C^#0$3•öºdGSÃµˆ›`—´°eèAúµ|ôÜ§ÎœE™L¤BSc İh7¹Ø0›Ö²Ùr­¡Ö±z¹Î`¬Ö×F1êÆ¸ZÏdez…•4.­¤qÑ$M°D²IeÒp	7QÏˆXŠA¤‘hšY(•R¢ŒÓ	Ê	“
+6A7ƒ ™[4/¨f
+SÍbµx,ƒ-L¦W¾K–gbu¶ÿ½ş}Õ¿ï#úgn÷bíOíqİ£ä`F&;
+¥ŒÂbã$‰FÅÄuçfj.æ"5Ñ)sM%Ä'Ÿ=œ°08¹	'™7â”/Vf-·²éçZå£-ûYOÛhiãİµ¼‹=“+•Éƒ-Ã­“­º„BĞÙtT§ÓÇ˜^µú<>jwz!4œZKíU÷Í(P4EÌõé¨–-z+”Y8)˜í³úJ}4AçĞÆé£àéÛÀÓğôQğôQğôÑæ°ğ¥ O?Ó{¾Ö‰D§¢,±áÜŸ¡ÑFhò]q.×V\ÚTŞkĞ›[$ÿX¹{@uàõâ®yW=ğğ¢M¹¹’uâ£½jEÎÉëşØªAs;x[ŸÌÎÍ›<^úR¦òwG¼M‹ˆğNåìŠ:s²mà¥xÑÛ8qt‰£S˜ ‡pÈXøU‡§£šßÁÓ!·»Zlë[ä)ÎºX-·UÄ–{.Î(ËI««=Õ9—%LIœì™’]›{¥«ÎSçŸ5?geŒ_¯Yl]U~@%±»3¥dÅçK+L¦ƒ¥P1ø2nU¹q„0È@Lİv'øÜzn}£>÷´f£8?ßš_—Oõ3ºØNl'³³íİ»ÛNaøp
+ã@Œ#x²#û‰šs¤}Dæ4ûÔÌÅö…™×ÛWfŞjßœiŒFt€"£Ú!£¨À%!òEbğ_Qa<âœşôˆ8|ˆğŸL‡T~gÓ½ÁĞ
+Ë’yí®Ãã'VnpğyRòÓ]D™l©şóæ{^¨]¬}7ô¡GÈ£#ë¡(éñËØ)kæMëv¸Y¯Ş¿ç‡’Nß·|Z`F’%ÓÙ©1²”+}Ì×Á<-HE
+cªUïÑWéŒ!TX<‡´+tV3p”¤1U2ánD3
+O£FÜÌ·;"şåÇ¨[is4!çÉ‘à4p}ë	NÊ°ÁæD,òIß·~w°õ;”ÄwîSÙ×ÀurZè3)YZéP@¦k£LÉŸ`pú¥ìŞ^'qÌÇQ–!)—všn©Ms¥a‰£.ùÊNªföÌ³kvj·{Õª$’”_ê•ºôV„'“d{F‘0š4d‰Â:JİlEË˜6ßlÆ2^ÄÑî–hx&bvE¸j%laz½uÚ7Y‹<E¥EÕáĞ3¤³Êéœhä†º«Ğá*¿Ï˜ÄßgT5*üeFo˜—ñhàÍW¶óÖaz²íYkkåy~$ªá´Ø…iˆAËÉÙ‰‘°¿H	“¹ˆ¡C×07‹9Ì.îB‚"{¥ä=	Õ™¹K†Şúæ¬ÉSHÊ9Y™u=/Ş9ŞĞõÈä…[µÒ>{j¾)2iş¸ÂŞ3&Îsèú»rr¼j²6<>Î–‘ö¼µCFnç3ƒÉ¤«ìˆ_];~r 	9°çf±à%1ZÇBZdíáÌó–Ñrk¥Sóˆ™S¯^™d²è•¸>vÉDR4Å`Tá¡Tªya'Ë‘(lq$ª>µÖg4£@Kdô¾Û!+ú8~Ò:Š‘[Ó‰ÒTjIÔï§öÛgE”ñè6ñè…>p“¸Ù²Dá¬fäOšş¤‰‹ÂÆÂ;ù{L«}íƒP1ZmÆœ©8nĞùˆEíHz†Ça|tbXx
+cw‰‘Y_Õ·ÿcSÆ­+754W5Î>øå¾å‡>2`ğ¼Š;·Ñ®k¬ªÊI/T­o÷<<yèşİZ—uH:ÌmÃôĞWì'é
+ğÁÓÚ@«¿ÊO³Iª%ËÕ!ş"Rd¹ÈU_Aªe–*WïøQ¤Ú2L¶,!ó,±6›£Ô$ù|îR¦·úE„âº6·x,
+ô1­³À÷Fœ`u\¢^ğ]¯
+€…è…©ÖÈĞãı"Ò¯Hm›£dGJ%mæ˜ƒHcƒVÕœ·hUÓÃVµ 2	f?}tÜâWT&9ÿªmd¨yfÄ–¦§è¾0·ã §¡_N~ÿ>ŞHbH·âŒ£}¼wä•Râ¹väæLäfß7©–VâÎKêæ­r÷Ià©LSêlúBír|o‹DÔ”>²Áîø[cÛšT-BÏ³š_˜a\Á&j‘ KÀgˆïµak¬áé³ÀqC˜§‰èD±.˜¨Æó–p:Ô²ykªhMñ*îT%Ş¦*˜¬ª¼%u…ï¼p¬ıD@03?¢TÄÈ6l8ü©ÔÎ­†0öfo¸Ô·yHÃÔCÿR^öôø‘«+››.êwÃêMƒXĞïRHìë]2ppZ9q.D¯IuüÊKoôç`Fè¤T+-…xŒÎiéR¶9Oêa.Ié+Uš+SF›»f˜kã™—¤XH‰ÇcMêé”Œ<°OÆÑ¨+µ¢’ú„½÷	"&p”Í¢äoÛÔºL`x“Gx¥>æ!bA}bŒ€1FÀ#ø#`‹×c(8fE[ † …u—[â‚p¨-b±Sœ>áÜ9œˆœìœ¥1Îˆ±•j[^îU\xSÍÜ¯ºÆœü6xˆdŸùüçgÈÆM·n7ÑÄ©›»äåét8³˜ä'r´Oğ—Ÿ²şq_ãrÔİ2 £¤ f/iSİ‚Yn1=Pİd†n¿Ô	FK/Õ.›UĞkzª·ê-È9SØÑ#TÎ(Xa$ÂÅ¸­v°hf[W‹‹sÔâå-[Ä3–6ëféÌßdáŞĞÃÛÁóß´ÈZoËr}B{Nåçç·†¹‘pQb^'VüĞ7E´×ƒû‹
+ĞAq±ƒgRúâYdXp{s}ıÁ=¥“³ä±úØËÖ¦ßİÒ›=wÚKï˜T®±ÁQR_ä‘cÔ\-§gl¯¬üNå•é+cfõéT™7†äÑ®d¦<ÃµT®óÚSåŸ3SK‘tÑù:/h‰¼S:QcæÎ½:«B_‡|rLTÅc¢*ÎZ˜!nPâ…~ù/ôÛıGİÎ÷ä—æÓlA½l1*Ù‰ñ6ŞJ<×í4ŞR¼0–ñbüâÅa¼¸“—ñ¸¢K{o°ø‹ğàTx¬M½ÓlàC[ŠñjÄx]¨î]/T÷`0xfÔ£CMª½ÚïO©¾cj¿Ş»/]ú£Êk´;—oú`}ğDğlBÜŞ˜¢Î3./›RÖ—øˆnıÑı«22óZŞ¥ãS“lŞWŠ¼nBâC«ë"Z,sºœœÌfVûÄJBÌêŸZØ_„³¡áX@Du<<L[4»©İ0ğx.RF"„Ôh|·CÑ
+…„C8¼‹÷Ä×ÆSÛy:¤¶Ó!·9#˜Û–wÍâfs4FÀÂY!¸YDÙümfÑ„™/ÙñVxA¸@óê¸ö«3bğÎ3ÓÂòdóysi8ÄÃyq[4g†.§4®9&>alå G57løôsté UéYöhyƒƒÃC?<Ì-ñV®“?«ş÷k±¤Œ"<])SdY­×ıh'U­$:&	$aI$‚ä&T¬§ÔÖ‹¹Ä±è¢UÈúB9
+ˆ±V
+¯U­VÛº8FàDöIn:JÅ‚A+Áøbÿuo¿mjn–ã÷ŸK“Ø“Ğ¾à(ê=I€£šß 'É´­;®^	²ÑhÕtæª8Wo RëŠ2Ëä¸¢ò¸¢Ìr¹EÿãÃı7ÄÕ%1ÃMqLwDÄÄÏO„—hÄ)ı(ºŒ…ï´XŞt‚·› óáNØØ~pùùÑ.çrÅ:?†>¢ßÑo‡ˆ~Úi,_£NDâĞ#™×u2$Ë0Òå2CäÀ²™¶“233çaËïæà¨m[QÛŒpN+Ë¤ï“ôLO¬fI¦sÉ5ç5ãpãtº„ğÏ5Ä·ªúÔh`•ÊYGNi­¡Î€soád3…ÙkÖÌTeb´™`	“xŸ™`	s·§ÆçPãlûÕKQ8ÖYŠ0ä_ái'„®È×›ş¨+|aç@İÅÒR©ˆ©É*ÛŞ½K~—öb©UİKs|~VR@¤­¿µ%ÍÍÔsªõWòÍüàŠ£ÅMs[[­=ÙâKÒUZ%DåüŞ±)áÈWhrdAÍ]O‰ö‘´ÑŸ˜Ú–#«‹¯JD×€Eaµô;ùE‡ñù¤š3şŠæf%l1uqèõ²É!­’u`c;Äv,ó–¥?“¥Û™FÒ<ÉIj\ŸÌT)Y&¶$UË!œ¼-gpN]ü×ÂçpGÇÎ‰İP#k¦ßŠ¹áãmıÉ7%Eºô£0£„¯±d‹Îˆà‰Œ·¥“¬âVñN«x§U¼Óê¶	,ø{lâ=xşfx:nKçwÛ„ç´q‹Ï›·EM?~tÀBHóñWÙ<nñ·x[¼Æ-^ãv'E%©m)>IÜœ%^Rtt’Úbœ$o")¼.hş¦¤ñ›f[fc¶ÜÀ™h;ÿœ¯+ı~KÄ|pTK%­ù8Yï¸ÀŒãdÜ~Uw†rØ¶ëâšÍÎ¸š!UwW1)\t7ó['Î½'cnóe»¶Ò¥Vffwªê×3¥µˆ.½xEfv67ıR`iÅĞÚêÚêOAÔ÷"“\¤ã…¾Wş?úŞ¸v¾7üµ#êhƒÑ…Óã|„/p´|5S°ñw—+œmØñşµË¬<Ï×†u«Í	ÿÿºÜÿäqÿ…Ç°£Ãå3ŸÏ¤9ˆ¸âĞ»{X
+m…®JK™­ÌQéR­¥zÉYÊ¦0Ğb…!=~Û¦Ä-‚iKtİãxX‹ >ráÃhTó}t^~6º rNë^ I°&xJf'H1’pâ1å˜DÅÅ›VÄª˜"TEÌB%ğÖoZø5<®ˆÿ7+şÙÙ¿y´?5<?‚ğúF$ÆœüúŸ§‚ß¸Sÿ$ñû»uó£İ¶éqÚ9øCğ )!vÜ{÷øà­·>xóƒ÷øŠRp’´å³öT--Ÿvwæ{ûÒ
+goMÌÔ˜«Õ¥I†èj’œ¢)z£ÉÅg‹#«I0Dé|:òÙ.&‚êQ
+ÿÕ³ÿvYÉôß.+uÛúRÄıWëK\`ú7+Lmä½p…é’ş}¶OqcEsså¯|¶oÍMC¨<¯â®Z²ú³K.’ì$ÿº ´:øFğ»WõëŞºªƒûí°=as1‹fÍfFXÑÊô5Xe½*Öâ£KvZ¦ š£ÎAM:Nà¥Õ	¼tn}/}›K€Å‹PÑìb•©Koˆ®,	°°ğkx‰iuìŸÇ#4Ç¹v¡â‘‰i{ÓËæ²ªŠGÜWÙÜ\÷ø¨.:±õı -_IGWÊ:nM/}ÉŞ“A¦P¨>ÑIÓõYòõ%úèv+\Ã|5¹ÃógË3]µŞI¹“óKäzû|ïâÌùÙkÈjó
+÷ªÌÛ`‰ï(¥°e©HjNËÔÔô^áY«&BOœ¬öbzŸ…ës6££@®£À¬cb‘°ñbe#^| Œ§•gŸ³GKT	,bÕTÌâÁ¯ö<¢	m†ıLä+˜#¢	m
+ğKT~Ñ2„¬‹¬ˆ+ª/’uÂˆèÄÂ¶Î-†se¡XÂş}![|{ÉÎÎm³m+xØÅGÀ€øĞÕ.ú-*ÌhûÀ¯¶­Æ…?²Ä¹Ø{­-}£ŸaÔ‡“–®MOŸ™yMÑÆ+»_ÔíÉË&.3x}âÔuÙYc¯É¾®Ògóş·úV®é“š¯·dÜzyù’¼Ü®]ü/UT]Rî÷»Lñ†”Š‹q¬{…¾¥­òİZ“ì–³ef´éz™911®”é«’ë“©Ö&«f›`«MMÄ|61L6·AÕñ¥ŸGØÅW±üÑ…(½umôÖ%‰…
+Ñÿ¡GØ!èâÄw×ÕIç¯¾„ùk;›™Kˆµ—È2*Ÿ=ğ¯×NŸı÷•+ÚZtU—Çëë›ÉòàR5Ş5¨ªó$—Á`‰Ùõ*z7é|şî 91;3-QÏY¿=ÚÔyIÔF%A·DÇ¨ìÔËö>²¨¾DzöO‚ˆïµäğ"Êb±ºßFÚY­ İTİ^K	Ç=SWù¯pøÔ¶ 0²lÅYZx•C+Ì®*šP£a~–D]wÁ—™óÖSÃĞÃ[‰Š" ü¶½@Ñ<î©éšmîÄš¡OV6/­üŞúNëòêÅÙ2ö`}ãü×4ˆ±7j½Ó¥J±Ô]é'U(JG¹»¬ÉCäZYVÜx§äf”eBë]ÙÅĞŸ- K¨
+2]À“©J	ÿÉÍ^­ƒŞÖÕI0–€7ªV•0Ë&³LbIâ§×êPEèJ\E±/ğ|*€Ó(ü\'‰§PDª–<,}Œ&È„ßî—-«Øb”¦ E€	~lÁüäÇß¿©+< 8£­AKfHíÈÒ¤t¹ƒšm,$=ä2R) #¥Qòã,:Aš¤ÎĞO2\f\L®¢s¥ùê•úy†%Æï¾Î­È
+èmzªkÃx4(ü£&Ó›ª  VÅ£ä*ÜÂÂ¥­³Ø,¥–Ù
+(EÜıj¬ˆ_Yˆ@'^H{]äGùÂ‚ñ	Z(ñÃ3†/mâÜ,›ƒÃñ‰Eˆb•âà'O?~ñdğÃ‡IÜ$e‡ŠZ8\÷°ñ<q}*Á±^†˜á3m­Ş˜HÌ¡KÔg°]	ô …¬P*T
+u=ô=¡’”±2©L)ÓUêF“j6Z®ÖÖWg“Z6]®ÕÍÖO1ú­ÔRš§VQM½ŠÖ!©İ£A€%&øÌ-É¡2*Œ"-‘p¨$,…š	‚f”$ƒ M*ÒFA!o4[Í|Õ 'üãÌ’B%"	K/]Ë'å|¤ÍÙ@v¾=®»XÈ@êÄ…§â§ÚşqşøBœB8_v
+»>";‚ƒO‘¤äã`y28ŒæĞ¼àhòPë‡íqMĞÁZ­·¤*eÊ`¥V©S=ÓÉ	,NîG*ØHA3=ÕqNÈn‰IĞO¢À¨$S†ÓtÊ˜ÔÖ%®	]áF½UO˜+•K“¥ˆËµªíD¸?¢;]WˆèÁ^ ®±aMhÿò‘`ß×È2Z
+œÓ‘7¥Œ–¬„ËÀèè”]5ÚENõ"V¤^ÌÊÕKÙpµV­guªA§c½¤TíETIeT§“¨~Ñc,53Î6ÖeºÜÀ²p52ÅÈöÈ’ºÏWD|E>'ñ±/Z–ĞZ¯cS[çÒ{n`Ew­l?Aç¿ —;Ngù?g-ùUñÓñÇ®.ëÈó]æ;ÕĞíÁQÆ*¿Sßö×`x¦ƒCLB·ÿö¶qcÛE6v•©¢GÂ‰¥?{QÖÂ~Ùw¨wÂ-ò˜GÓáv<i#Ö?Œ×ß¤ßÀF<ßŒy+»/ô9Ö_/»ˆó{ù=˜aÚ®‡Û1-Á4‡İGFãs'± ¦Ÿ•µÄ„oÁ^5È‹À-/…Cò&˜§dan…CÒf8¤â9ƒCl,\Ïî‡NòpXšõÏá=-˜„yÒ[á\^u‹`¥ô=€ü4ò6ußÀ¥ò•P&}
+æWãûÀÔÓã(ÃnÙjAÙ‡K¯Ã4©š¤l˜ùLé Ì@\ÊxY¶AÍ‡­ô…Ğ>©^Àòİ!hâõÒG0C<‡÷±âùËYôÂkÛğŞøÌKxY*„€ì€'‡%˜ïÁk{D¿yÂ~ó>GúTÇå2ıYâ2¢|íÊ´…æ‡ş‰ég,Ëm²]¸\ç%'©FŒÑ=‘ñzÇ¤‰—¥³Ğ„csOº#ğ˜ì¢ÉˆÕh>vºã`á˜ãµ{ñü½ğ˜>7SN…ç0¿E>*ú¸^~æàùl÷VL‹±î2İØ €çs8÷8¯0­ÄñøóŸğÙ|9Âô7Fqï¼	é>Ä¾¸`3¾3{"t
+¹»‰¦‡N!_·DÚzB`ãNO„xÿ Ç|7¦}2@™L1aß9‡ñ¹³ØÆYS'”™¿Ç*xÎ­î… ¦«y™ËM‚g‘Äyøc»§0Ç‹˜ù0ÏÁ4S&Ä™äKWC<íñ‚¯ÈÎMÎÎä¼EúÇe}xu9†}Blˆ_ªá	Şà	ûÿx$­Å÷–p}\D9ÛÚFnqÎDsÁiä=ï;ï'çT4º×fr„"·¢9×;ìãã"‹¼Áœ=}FÎr¾Es¡“œk¨\'"ù†¨<\?¹Dsçb4`Í¥ÕaıVnŒèæ'(‹fÉF˜Á~ƒ2åÇşH!Ä% ·ë«ğş!¿­òûhßNÀ;Òx‡Û4º	¬Ò;°¾×ñ„åm˜×µápVbÍ£8ÿ!gx1Åqè„:ù#æã0oÁ|bHøø`¾Û4nW„]CÛ"Rgù¯p½ ßÄqı<7şs›(ìR„_t*¾#Ò®×\7#ïà|½ÿÂ¼íyÔ;Äÿˆ°ÏÁ¶(1­áúI`|˜ÿ4sÀwéôUÊYŒ† èLXÆI¹®/U~èÕ6_°%¢ƒÈƒ¨à8á5wÔşË]`®à^ç~@9{_†<Ø²r}¸ZÈËùÃ¹¶é[d3Úi´s¼ìÑ°­—‚blöDÆ£§œ¾.)ÂfÍ@ûÑ$ÙüÙ]§l„åZ˜#ÆŒ×ñ{0çu\~eD(Ä9,ßöÇ*bO®æc¯ş1*÷_7„B‚(£àPLâÙ·¥{¼Ò)¢|“Àã8Äp<øsçaÁ9Á‚ëÀ#ëaÚ©—âıeˆ{ ëæbºÆ«ı0:	?ó-Ì—öA{ûû+èï'@¡”½erÆ#pyAú$Ëğ<!ìsDÎ}b¿°~
+?¸fs?ˆö¼	íÙ:…&øšd/êï¬»S-SvbşôºÆõçEQ?ƒó[ø`Ä˜ë‹n0$câ>8¶mœø{+şòîU}-ö…×Õ´•?`:‰i{$ÿ	Ó‹şY2?¢cfÔ•ş°‰gêÃ j8æÉûÎÂ9IÃÔ§]Âsª\ësA*¾ĞÖŸ‡¾ø÷×ÿ‹ü/lU»¼£t ã¿¸±I›"ùVø{û{û{Û…¾÷ü<ôå_^Ÿÿßåúì¨ıùOy[ŒøW9ú;ÿ¿1÷üÛ½÷É°÷ÿ!·üçfà~½Å²1bPšÊwY/öJ—¿ÚuºÕkôÅú#†ÑÆão¦ZÓOæ5æw,ç¬Ûm—ÚSq¿7æÖØ¤Ø×YÎaÎmÎŸşŞÿŞÿŞÿŞÿŞÿŞÿ÷»øŸ±®‚	 ƒË@
+6Èå_<¨L¿àÿ¿VíÕR;æÛ½ZãàÆºÆe[4o4ìm<İ(ş0ºîé¸øbO±ÖxjhUõ¸j:{8¹gøÖátÈ°8iè0—4l¨Sº¸b¨Ô¯¢«Ô¿"_€©¢¨»TRš/õ,í)õ*õI}K“¥>¥C¥Ş˜4L¥EùR~Á$© ¨P**.¥HG
+.äy»}GÚ€â]¡ãÛwØüÅüÛ›y‡ŞZ¼Ã=@Z¸}åvëôöíâsZh»¾CñvÇ éúÕ±RİÌºEÔzç§wSí.WB±v§+±X»5K›â‹W®ˆõX—[WX×Yo²®÷,÷¬óÜ”»nÙŠe«oºyıŠõ«Ö¯¶j×êmÅÖ¹¹T›£7[gï!â}‰”üá õ¾¨½Ha	¶	T¿e<µ!9»ÔÉ‘&e;ºKYX©£Ã)y)’ÏÛWò:J¤—İå’;±¿”è.‘ÜşGşİ¥X7Æá–ì˜êDsôî[lµdy@!æı•Ó¾Jao¥GIn®ôHÏVzXS¥‡î®ô•x¦Ò³_–gïóYgµšfŸgw“ÏóÌNŸgßşæç÷¾`n~ö9SÓî=¦Ïì2Ùš—5S­iYµî,İYµ³~§dİ™‹ÅÙX|~ç;C;Uƒ¾«d2SY¢ŒRt°Lv‘ĞŠoLnØT9tdÃ²äQ»T¨>²4u£ÔÊa‘"ˆŠóæÏ›—ı'[+oPÊ§oPüeóø‰…ŸXüeXh°ò²Õ_–MåÓXúC#ó¢[ö¼ÈÅğ‹ÄüÙ;¹,óñˆ×ÿ‘UÕ¸
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+60 0 obj   % PdfSharp.Pdf.PdfDictionary
+<<
+  /Filter /FlateDecode
+  /Length 10615
+  /Length1 17616
+>>
+stream
+xœí|y@TåÚøó¼g`f€a‡™a ÁA—dDĞÄTqÃ}!%,KÍ¥ÅÒÒ,º·5Å2³İ+[Ìêföeu[,ïÍº÷¦Ìü÷Ì@f·ßı¾ßïû³s|Îû÷=ç}Ÿ}9€€  ‡FÀ6mNeİò:™Fş ¯¶d‘mœ}z€Ò ÿ>½nÆœ…ß%èR¤gfÌ^>}mÆz7@È_âçÖTWV½ùIô(€ôRZ£gXl†Etİ'ÕÌY´lîçc¶Ñı!€àË³çM«<¥÷@Ÿ‡i¿«s*—ÕÉ;Ùl€{éy[İ‚êºs+?>M÷/ :c¾ á„/õ0†€ğõRË´g~}Ğ¤ J²¢êô† à£Én‰ˆŒŠ‰‹O°Úì‰¤ä”.©i]éİ\™İ³²{äôì•Û»Oß~7ôÏsÈXP8hğC†>bdñ¨’ÑcÆ_Z6aâ¤òÉS**aê´ªêé3jfÖÎš=gî¼ºù.Z¼dé²å+VŞT¿ª¡ñæÕkšnY»nı†æ·Ş¶éö;6oÙzç¶í;vŞu÷=÷îºïşİ{xpï¾‡ö?üHË£ÂŸşüØãÖ=qøHÛÑ'Ÿ:öôñgN<ûÜó/¼øÒË'_yõµ×O½ñæ[púíwŞ}ïÌûg?øğ£¿||î%â4‘ea6àÜƒô±—Ù+ìcAĞ	a•Ğ,Ü*ìŞƒÄ‘â$qŠ¸9á–„Ù,¶[¢-Å–iË¶õ±õ³õ·Øl{mûm²Kö0{„=ÑbïfŸœÈåDcbh¢%1&1!Ñ™xcbEbuòäG“_M~3ù‹Kì’ş
+óù¸ü`7a±ÇŸÙK„ÅY:±h",6	Š(†ˆ£ÄÉâ		»ma¶H›MÃ"ËÖ»‹	‹G…ÅÄ fÂ"º‹*Â¢%€^¯ ÏçûÀÁ]¾f ¯‘î†Á2ß _êÕİtÉÕ£ıƒö³íï·Ÿiè3C‡Êœ¿åü¶Ouç›ÎÿëÓqç—'=O|>÷¼óSÇ'µŸ,?_s¾ß¹íç8·àÜC‹ÎÍ?7åœë\æG÷}´ıÃï>ZøQ¹é8ÙÈqM5Ww¬Ërığ«û|Vs­º²B•P#,¹N‹A¨õÃo¡Ôÿv®ÀßÀƒ¤·7ÁvøÖÂ&Ø»àØ&h&×ÀV¸ƒÛ`¬G„¿À÷p´Àğw¸?8	/ÁŸa*Lƒ; 
+^…jx^7à5xNÁ—0NÃ›ğ<3à;ØïÂÛğÔÀWğl€Z˜	³`Ì†¹°æÁ|¨ƒ°Ã"XKá¯°VÀrX	õp=Ğ «H›o†¯á[8ŠXˆQ‚+pá`¼‡@;xQFUğáP,Âa8GàHÔ¡„Å8
+~‚`	Æ18Çáx,Å2œ€q–ãdœ‚X	ÿ„÷0{ãTœ†UXÓ1CpÖ MhÆP8Ÿb†ãL¬EF`œ…³qÎÅyX‡‘ƒ£1çãŒÅ8ŒÇ\ˆ‹à_ğ3ü|†V´¡q1.Á¥¸—ã
+\‰7¡“0S°¹İ6âÍ¸Ä.˜ŠiØ.Àç¸ÎÀ'ğ|Á9x>Æ]xŞÍd]{ğÜ‹ûğ!Ü£Á|ÿ„éøg|ŒlÏƒ­x â!|ãlÃ<ŠOâSxŸÆãøÀgñ9ì†ÏãèÂL|_Â—ñ$¾‚¯âkø:Â7X|ßÂî˜…§1ßÆwğ]|Ïàûx?`ål2›Â*X%›Ê¦±*VÍ¦³¬†Ídµl›Íæ°¹l«cóÙ¶-b‹Ù¶”-cËÙ
+¶’İÄêÙ*ÖÀÙÍl5[ÃšØ-l-[ÇÖÃ„áÂa¤P,ŒJ„ÑÂa¬0N/”
+eÂa¢0I(&S„
+¡R˜*L#»©¦3Èzf
+µÂ,a¶0G˜+Ìê„ù¸·‹„ÅÂa©°LX­p€åbxÃó¸Â!x,õYX?â6aƒ»à"<ûğ¼—õeıØ¬?Ë£HN¤Ó`í¸^{ˆÓÀÁ[ß§Úõã¾·Ê÷#ü/j ş'fiÿ¿ûâí¸–4téïÒã™è&{)£ëº›G¶Ï}ğiz4Ù’n›Q+¤ßñd="èéş[zæ²öä.ízûÀLãy%€gÈw\ Î{1Ó9ƒÎò¥PJÕ…¬ôFøV£gï&9¥gNÒ;‘g»„*Ùö²Œ;Y0Ì&ĞsQ87°áìŠ˜
+.e¡8Cx/“ß°`<IşëCÁãû+î†óB;Hh¼ƒ=Ğ-ìº
+Vvšíp÷“Û«gNì¬î™®néÎ®i©]R’“‰v›5!>.6&:*2Âj6C‚ƒzªÈ’(0„tôD,mVœ±v»½,#póë{lú»İ¡¿z(öº—â®»¿î>¡ó~„Â=ƒøÂ­0è„y0Ü|N;^*¬ªuÎôD¬ª¨ 7
+&›gĞ%W míVƒ~ c`µ>#Zõê¨GÏÖµâ ş¨uØ Â>­ÔàŒtO¨ÓÃ’9ÔzÜ+¨ã( •h&ì—™6ß‰[¯z­£æï¡GèQ´}m3=îJl´µ¦Ÿh¾µÍS+œAUªÊIÄ¹JÂ±„äÂš1œ…*jl‘×.±4b+¬±5;8;
+k*èê( ·şí8ë–®³Ÿˆõ„R[è1;=ƒé‰Á+.Ä
+Í…Q3mü¶¹yÍ³{Téµ³v~-++‹"„›´ -VX›O¤D¹2Òı4PUQË÷¬­äxÖÚš7Vk¸Şªá =ZXC‚©üOO57V9
+«*«òı«ô¸ÇhŒ™PªH¬+( Q›©((³û™]TR:#æ¨,ˆõ‹½s¤"0B…“6ÁZÀc›fó@I©ƒÍå—ê\h–«)½é­â_ŞòHÉ&‡­ùG
+–‹ßşz¤20"'›~ŞäTÑÜ<ÈaÔ\Ñ\Ùækœê°™Í­EEÍu…´kq)½Õæ{rc¬gĞ­eSEö!ŞsTRšk7—uÜwÜ©)–A#‡¸@ÿ†â2Œ)µÛˆQcKËb‰O¥¼?†úş–+)n.É8À6Î£êÜNötív®ÛÜ0•n<£Jı÷6˜{ Ü.'É£‚Ïœè˜±Œå33¯W8h—CZ"iñ¨)ÿŒ¦ˆ°Âš>Œø¿LWûç=aK…XVæï±X÷ôN²ô~H'õSÍ$„·“Ó#•ˆíWf3™ÉpévšPj+lîÔÿH€R®¤êÊšæ€)q¥'WßêÀõ£Zİ¸~ô„Ò£&ªÖ)=À¬È/kM¢¹Ò£6r­Ú(ëåw6~E\0U›Š=êhÔfEm@»ŸÖ† ©cÓÚ˜Ì¤ÑA%,ãR¨<¢\Xğ#2ƒëÔÇ§´K÷L»ÙnN¦ÒS?7òD“Z ¯!ç2™²Šz;ÎmÂ÷™	*x¥É\ÒH‰•»²]åàºØ=é}af»Ä®0môÅ56r¾k¼ÛHÙ’$ )2¼5’â£«übïŞôb^àU~²ñŞf\Â}ˆ®ìÂ¼¦¢¼#²…rÇÜ%2Óéô*Ã›i@§ÄÕ’$÷’s•"¹@™(QæÈS•Uò|EÄakõ ×¡H1i…Œ² !D­&ÖIz$m¾OÜ¡zS/ÉN0!YƒPr•›³Ë]Ngyh$!šÇécJİºá0\ª‡zI,/Ãòu¦ö'NhWõMÊÓ×1(';èD»É	Ş…3ÚÏÎğÖ³|Òyäfxß‘N_Ã"Ú¿æ’á5SQi$È†	î¾Eá¥lŒe&«²ÔÕ/p¨a¡éwB‚)U$<À”ø­ª±U‰Xšn4*ÉõĞ–“Ş <ÑÃôS{–éòÅĞŞ®ĞŞ5S·|>áŞ=³Ãe%Äî¬ˆÈ´Ğ­%±GJ—n”D›³³zöêa¿¾•ÚÆ+}çö%,ÿĞş’±£ÔlyÔìêZ??©ßÄÆä¶É½ò3î7&î[ûöËÀ“³[rós¥ÓQiÎÍå³÷uSãã›ÉCCM‚÷EÙ9¤ıíÁÃÃ‚™÷6=šëØßgÒ\é;¢|íQpúš›zYÚü­¹Í÷œ{¬.¨—«?]Ôø¨x‡"¦©.+Şá(ceâx}YÜ¸¤ÅÂ
+Ñ–6/¬!L‹Ù$Ú223*2ê2ÄŒŒ”Í–Ñ–9#s¦ä¶zùHbR¹é§,È»HZ¬]ˆAN':RbR—–Ó#´WÏ¤lQ‘fG7$¦89ÿ,á|ÌÏ^Ùæ¤1aÊCŞ/««çÕVW¢µeò÷À9iéqc{öj2jKÿ¾CFö»aûAút›š;=wHcüÔÊJL<ŞŠ¶Óf[Ìa®pï¨|›-=»oïcko=Ö³—«kR|~”÷Şèt“%‚l´D¾´$â¡Ÿ»kYèØØjV¼„-–#¶¨BäÅX¯§‚’´Újµº­ÅV!’T"ÁôQz¹übÀâH˜"‹šˆ‘¡Ò¯å-ßp|óïÕí?°¸Ã¨N¸»Õ»pÖ¢¾+oª¬ÜĞxÃÌ©ìË·¼GJó{H§oÈì}ö½­§ûÆ[®NŠ¶÷{…K“°¿",uï—6g27•Hc
+nVEÈâN¸Íºà^ —a¤1‰pÔsµ%›s9³]došÎ^ãÌvñ«öÑleû-ŞÕ¢Slõ~ã=ßŞD»hûI?RÏ@û9…Í™ª[­PëÔFÕ£Êª*é¥Pk€ÃÁ\\,¨BƒôD¶!¿@^v^v`¿44wî(ıèmlÅÛˆ¬ÁíuÒéöO˜ö\IFû™¶gow¢NÜ*za+ª†=úAb{€x
+²g»ƒë‚År3_şr–©ır¸Ú³òÚ³´­²ÍÚÈaÎ>»ºóòe¡æòeT…gQõşój^//Ñ>8Üáä¹6“7¯€:ò ˆø„L’5û}p^òâ¥+oº¤ÓWFÖß§5‚à‰£ ïóÉ¬D7]†XƒÓ €.Ho4˜tqz«!EH]z—¡¯¾¯a¤nˆ~…¡I×l¸S·C!¼§¾LßÀ$QÏEÚKj2õbü"1½ s‰yb…X'Š" Š†Eˆ‚¢ƒNâ"ò'¾GtôÊjå‰`"ÀYÎ©àñ {YÍåvÏt’ïÅr²G¢
+íe:´Ëï{W{¿õşƒ`;Uñ#q>o_ÎÖ]%éXØ7ŠUM¹‡Œdn…İÎ&³Æ@6É6y0‘—Q0bˆ2STd¢ ‚CÎ¤¢n4V`.•™â&D•F8l0Ö‡‰i`@ €5Š\o‰ 'é‘“H(÷ÓÀƒD´“%)}Y¥ˆQhbšØT¥Õ)Aåed‚ôˆÇLaŞmP±Õ².ËÊºnÎuõ/”QPòùÒP£š.²êİÔ¾Ş»_cV¬¼WG…±dè3|ŸÊÓ¥K¤‰(tgu‘Ò”4CÖ‘M5Ë½.F×U'èDûI°É‚ „)X$ç%c,yÁ$Í^¾yåóÊ5ç`»ÌÚûcæ®ó{òtow§÷.oîÄ8ïö
+¹=ûgeßrã›{fåİ•µvèĞµì¯Ş{½åø VÑC{¼SÚmGë×ëÓ¯g~¹/®¾å©¾}s{ƒß³IIb&°Â`wôhÓtãbQˆŞ¢(º¨-¤Xæú>0”»5Íu‘ë°[ín;‹VtOØL—®ƒ{8Íu\ìuN‡š¿ÎÍI(ûèÁï½lÙ¦ç‹&Lñ.,Èè·`JşÜ©Îd»p¥ê™¥¼¤Vİ»÷mkÎ›%yó£’leŒåRÍ[a¹»$ÈcJ7İ`nšd]3Û4=¦Ád0›n6ZÙÖÖ…VÁjQ·æ™GšÌ‚Ù®lµÆğ:+Öêã¬qáF£İÆ‰RCÂ‰¨€?íMä”“beœbhoŠSÈó,¿.p“8Ì×Æv»åv©)Ü¸dÒM]S“)Ãrzk[½«YSÓñÑc¦İµIÔåGšï¼P›µèjO–Ø~N:•uÿ²}o’%Íñ}.M—¾¥È|ì($úİ!dj#]¤]H/k›ï¿Üƒ¨cˆŠê‰}bqhì¨ìjİİâ°e‘K»ÉŒxeqŠñB¥Böä­ñ¢MÉTêAQ[…0›³>Æ\o‹ÑD«£¥ rxlş‚Ë³wï‹®‹®k´¹Ã¸Dg¸³9Ç9Ô\èœ`ëœe®v®4/r’qñLqF:™fgZ<Çp°SH7gGˆ~Fù•šşåô Í”¤kUœkËtïFï‰£Ş‹Ëº.Å.ë’Ò{.óTÉ±}¸“·¢ufÚï•õ™SÒ»äN¨/Ù1şÑñİ¿x/ÈÂê)ÓƒBB{ætîˆ½áô=o¡ÒÛé}äÆÊàPã]úæÅ˜mq¹ÏrïœFš_¤å·éî7“‚‰Ø MlQuªIçÖ5è¹Ğ~œ¸(y]ŞF¯KJ[¯Œ)™ 5ñ}*¡5ÍëN6+BĞ–¡PXÌMßÔĞh¾ÃÌÌæ0wª Ü®ÜO¢ µâºVîwÙ´¾fşÑ´Mx±,‡v:ãõxÒÙŠ«Wo¹ã\ÍbÉˆ)&¹:å[ö{hw±‹´»kÜ ¯¢m¤[Ğm^¸©‚‹oêtr¯éO­YR¾T"UHu’ÄåÇÇ2±Tf’(É«é-I¼Y`BLeq[€õLN„D!ò……°PËı9JRF1)pÈbû§Ş’öOq+Ö`túg…Ç¯EUóı—xD\FÈ„éîÁÆ()=:jˆ4$®L*‹›%Í4ÎŠ[’¼ ­.#ÿfµ:#º¸ƒ½ºtqìwš‚÷GDdZ1³Éõd–+©ÖT–šª4E?ÕÂ‘¦åYÜ)‘Ô\Ns‡kÊÑRÆNw©İ:Srzô¤”³©'×F‡™ÒO›h¡ÒªdHKzÏŞAQ‘î‚óºÆKÉYP°ûìÜê*L½çe¯¦Û{#ŞŒÙhöŞƒÉ_Ë–ó€GzxxXzsDÿĞ¨È—î^y/¥Á:¹|pÆ´§_m‰úß×R9œ<o<iKR!Æ7N76HÑrøö“bw
+ªy³Ê‘†&õh‚Fœ¬¼@È ä»(\%ûA¡è'À¬Q'õ÷~ôÑäMn£w?ÖŒşóü÷¾ğŞ6}Möìî]u¿ıV6€¢ùÔ”\9¼ıÃüï)ï7Û°Æ·¿¢˜Ä]JÒ™/®†.°ŞíÈòt}£»Çº…Bq˜:L7,º ¶È:Ñ:Ëz“-$ÅFùFx›ï/BÚ|çİ0ñ iB“)rG)/	“¸£±Ò`RRüˆ0A’)©!IHr¥aRZEÆ¬‘ŸJåA‘×åÙšóqú½ÓŸ•H‰)šçà„W¿”ÍX:ŠöÃÖ&”M9yâwŸ“méëL›:à{îßR0')±GDöØ£	ƒ†9·m×…¢ÁùY©ŞS¡™‘ñGv=ğ°ÕnñJu‘„&ø>¿#	…ú»S‡ê‡ÆÌ7	¶®D¥`#U…¨!&LØ.E˜ÃY<™»F}ÊN$ø•/ï"—G½<+#‘™ÁÒ‹kP¿óî, öÔO£o,x®²úæ¤0Ÿ2Æ±iÓ‚Uİç.v#öÃ Û?Y4ÚiÇsWYSHë®}Û’	O.©«âZªaã`®{tsê³Y?ı@6\®2Ì4Aš¨;S¥«¯ˆ\Ä–ë…,
+Ç¿ÅÅEï5jRG«ÓÔ…ª¤ªâÎ .¢	%¸0›ŒOÅû3öË$ŠĞaOv5Æ¹îèÈ]ÌÉş´E¼zõ¤zôĞ‚3ıSWœ]ã}Ì»Çb†b¸÷n¡¶®f­Šß7İZâò~Ò=31#°Ê‹«cç/˜½”4ĞI¹şj9üšÛDùøNÔıfc°^cŒ±Æ0Õ¨šƒšŒS‚ç³`Ò*¶]ü‚«·VÌôîÍÍŸ¼ªCC)ín*œlÒ".aulÔğôÚ"Œğşäİy÷İ+^%)¡Ãæè._İ,Ì»l}ãƒkƒ·Lüì!…bòXwîˆˆ#²Ë#Ê³gFÔf×«+‚;Vd,IQÎvSŠ±ûö(½>d‡§ÓÅ&u±vät[ûTrO<kÊ"ÇÍÅ-9TûDìÿD@JnÎî(ro@>¿èM¯ëõfÂ¨QŸß±ø³ÑéùÇ‹ªêíÖ¸÷U~ëƒƒóŸ­¸í†`,÷î´NHÚ´iùÒ57ßwö†ş½âÂ1:Æ™œh«dÉéO2NÜøjÑ Î”¬«>l6>¸åÆD(Z(F†’D‡r %ÌÒÏ\gÑ¬n3…@0YQ™QQÌdh
+>¨ì¸ƒê ŠŠˆÎ<ÖÜá¦",R¨w{ˆ9|xa÷ê¾¤5­³Ÿbël„–ãêòIï¿ûÏøvÓ%N×¾huwÛ¥ûü¥„@U„Å]Ğ$í4!Ãb]…®BvG¼Îë(,{ñ¯\¡|½·	o§íFs}%´²NºÇéBV´ê2Ğ¥ËÃ\–§Eºrœ¢›‹stX¯[kx„í1<Ã^e?¢p½mT­*S‡êP—iì¥[Ï2T¤ Ú|gİ±Ôô½*0AÒ¥lÃ@ÃhÃBƒ¿œK g©g=•–&¢ÖŒ ¯Lš¤£At”ˆÒJ4C^Ö™N8ÕN©İ9_<Q¸Kµ‹ŸÏ~¥o¹÷Å©œnlÂû½³ñ«¥ŞMrøÕ)xÉç§Ÿ…jœw‡ò_ui
+0RË8#¹(ı<ôóö¿§œ![H…Éîb„g‰KÚñPì‘ˆÃ±jÊ¶“9ÒÊÄİ¶p“Ñ’Ğdm‰Ä&fn
+ifbttMƒ®™]‹»Öuí(ÒÛ³L{_è‘¨ù"äWêcñ[_‰®™/{·«¡¡CòsªR9å-3æµdÎ~}êá§½Û•PóĞã„¸«X÷’…IIvgÔÕâ´›†”L«˜Xóá©ödÖ}ô·vj=Q÷ïµŞøÿ¢õ–ÿÖJšÒsŸş±”B>W—vw¨e§Îd§tÀHÙ@r,Ê$ÍPÖèÿ’ûß¨¥ïÓŞ¿Ğù4b"%¼…G’Í6¡GQÉö.‰v[Yïîe¬;¹àg1-‰ı½'Ú?t.Ÿ5mmjZb\×.ëgLZ—Ö%ÉÎ­²Å[%õ'.ñè˜çv°c­ÄXVm¬
+[®6Äé"·›MAÆ„r„!6œO‰Õ5µûÓâW^gó‹çë`Öõ™ÌØÂ×T¬ÄÙF©ÌÛ_yo«[N©LRI*Oe6^:¢8-Ù›.ùS.óº÷Û½wR.óZˆºß/Qá¬8B!÷Õ1Š&Üô")!·£Nw…cÒ¤;ÖQ†yíN@ÊäZ%ÎÚ"§'_RÀqZê–*©jxT»Iœ¶oú@Æ¸6M¡,bñ)V»MY®!Qƒ]‹q¹ayìb‡båÉ’=„Š:]úšÉ+Å¤RÅVL©3OŸ¨lÛoR8ªaüsˆ²_ˆ°§®‰1¯±Ç(Zå¦×*·¬º,T´¸ç½¦vsús(^¼•ky†‹ö@|ñkÅ5õX’=Rùƒ‹¿WxOzÿ¶ıòP{ìà¹›FÕNï7&uCî]wRÆ«_õå kñ©™ã—ö¬êÕàŞ´«{/7SÃ2b"í®niÉfÅ˜úÈªŞÏ÷^èU˜™ÚÕb°˜’ïçÑİ÷µ°LÚ±0Ô®—b%f4Ô˜Á¬ì7è±±‘Dkÿñ
+ÄãQ65éÕy
+'3;›§V6ek14Oûü#r²?™ç^¯¢Œ³…e}VO~ûÔw’7å}œCÄMMĞÍ-o°àËdÏ\ö.è[êp¤Eéiß=TÍéÄiäú»ÓôrŒ<,lbØì°eE˜Â,’ÎhŞ&E –ùùİOÒ#µO¾üã&Oş:¼AN ¯kğ¡ÂNçİYõĞÂ'_ÁZCxØğÂnu=°æ¦a#Ïœfµ¿3v~rrb¢]à~:<’…0‘a¶;É#Q¢ÍK¥T™Qm¶N«ÍÖRmV…³Ø"\ÉD­ä³ëŒTòÑ…—F¶S-ªK©2Lô<•Işo˜~<©^¿¶‚ƒò@	'Y¼#½5Ş¬GQœve—8íêUAäÚC˜¹	3\t]Ì¦ceªÈ†’¶ªm¾ÃîêÄIa†>Ra*#te8N(•Æ)eºñ†ƒävN‚¦zI–TEuE!U/è‘I²AU ˆ” Í÷–ÛLÊzYFUL”Ùi½Ÿ|S/™_D~ÑË’¬7ˆ„s0°¢Id¢Ÿ|şåÓEÕ¯…ùçOHó×8aòÿp‰úê	õ„‰_¤œG %ôÎ{,³nï¤K?y«ğ)ï0ÜûíEÜå-Âb¯‡ugYŞÃ8´ı}Î©ò—‘Ä)nsç©ÒP©T(“¦µâ£x”ï:F2Ú«V˜²–06Š%$N)W¨•V²ÅÂ
+i‘l`œ>IVæâ¥2?G.”™l”ÄXÆt.İHöµ•É~
+!ÿí	—ŸĞ.œ"ô9íl.h¿Ã»â ¡¿ocg~FÜ+N$ÜÇ¿\H¸ë`‰{¬ ¨±ªSí«ªbŠÚK½Eİ®>¨T_TßS?Wuêz&„SbÇ†±J-«VV°ÅŠ¢;d#SwïAU"S1)6íc”‹„î7g’E¶ËÕù¡¾|ÔÍY>]ıdAüÃ‹íâÂ+Ÿ²âö“ÂÕö£¬äK¶•ÏÚoÿ¯ä¤¾7úØc¿!ÖÿûJ=úŸ¼=œ¹BğÕzÇ?¬ ëü­]ş9Äà-ÉõÕ^™üpç/÷¡^±c~rá5ñ ì—/Á6Ékõp»ü,gÃ~±%xˆÆ_§ùÙpïÃ\jHM°’Æë$ê©=Jp+Á‚½|‚{	¦ÔĞŸ§5ø:ÿ"øVü¶*‡a³Ü¢ä(8.½
+3ä½Ô.%èÇåzº?ÇÅÉ°Rœ]e'GÃqeÍ½Dp
+fHû[9Ÿæ‡9Ò"H“à9¢t
+äóVútÒ˜@tü“p~šÚ—hÿ%ïá¾D*…qÒNhŸ€Rj'HÅP*T‚Së„âÑn¡·ï%i²ÖoQ—B—ViÏ·ğç„Ÿéıg`Š°Ş;{¤lHPÎ@†4b¤H_Òø²S,Ã{¨}…öß¥ÑMÀéæ4wĞÄñ×pú7 áXük œjØ1ßÏ?|×‰ÛõÀñº<ğw’û!jÜM°ƒàc‚uÒ!h!Ù¬À&âÓç½ïŸÕ Õê2hå:Ñô^éEÚÛ7IÛ¡J¾iÒŸÀ) úOí'¡A>9j2ÑBøüë¸îÑ»g	¸¾P{Ÿ¼ å×áùuLQ«àHŸ8ot˜¡n$Z<pYÄ]„¿`%éª`e —Yœç\îB“ï =$óˆ÷)ÒÛ$Ÿ³D;×az'‡ŞÏ	É%ç²àr´4İ›óíJM>Àõ, \/ˆ?1ñƒ	ÆIf¥–øŠFœ ˆ•ÅŞ¢=H_¹ÎhºIúÁuƒô?Nšã5å4|Jxq{‘/¡*ÄHâãçu‹à ÁË­DO5·®‹ÏÎµI·4éh¹N“ŞsÚ5:I§:[²=E48ı\¿:Z²;¢q9oÅnD+o^¤³\ß:[n“$[nÜ&mm'>dŸšğö(85]']ìh;xÑÙFûmB¹Ê5Ü¹Ş<¥7¨½ôÊ(®dÇ»É‡„ûôÏÀÓª‘èvËwû>goÃbñ;XL>m³PFñ=ØÂÎÀÔo¥¶®ƒşßğêzÚ>ÿ¦=àÁAèMmÉa	ÙãO\Ä»Œ@hwsŸÆıŠæ×È·hàçsßåë¯ù;ãz¾^ÏÏë[î5¿Ğ/ö­ ŸÛ5·MnÛ|î³;¿¾í|ŸìÎïGÉ\…›:ÙJ°ŸàÍïöë?‹¦g^–+}ßÈ'}ß¨Ì÷´×÷òAÁó¾oˆW»:b÷¿7øùªÙÓo›ş_jƒšr¾S–AçÇû}åMØÈıf_n\wü>}ôÜ/=E<çş¹Ú?.İK5[¬GhşŒ|¹¸Ïï³´8Ñ@-×’²îSºÀDÍïò±Uş9>ÆñW†>$Séû€¬~„Ë^÷2„êĞ3õ³¸|zN‹ÆµQşx'?]ùZê·*í‡ò4ÆóãyÕøq0;:xÁcŠŸzn;œäSËÃ`n$×Í¢}ó!Mm¤1“†ß$İÔŸfÍ¶ÂBiÑê&ú×C2×{ÅK:|HÏÓØóı¢É_´HÏbÎsZ<l_ñÛ'ç­ò$Ù-ƒïÑÜrX¤JCc¨ÿwÂ­Ú,zş¯\¦ş"’{±«ÒøŞâYZ‡ô›Ûç1·5¢ÕT-§ä” íË}½Cqáuı¢‰ÆÈ'<DğA ÿş½ßÎVFlëE²•ïaeGİøG”%Ÿûı»Ïğó1~ß	ä÷Y7j'”_i¿ñµ­ï©ÔWûûóÿ½ö÷|Õ/-á]ì»ç÷æ>©¥Ã7ÁÇÇ‡vü&öşÒæI«|;~o¾ÃŸü§ö7±:àşSÛ™#ş^Kñüù%x„È°ş‡³ïïS~u¾£ğs–Kg-ì?–ß‹%â£â£R‚ô¦ô/9W¾ãßŠQ™¢œW{¨»Õ/u•º½ºÓºÓúQú9ú¿ó/^‚n:œ¼ xAˆRräóóóóóó~jÿƒA=Lj@ş›„nK™ı!äW‚nİ˜¿~™dıò³•ÿªêL©§û|‹ÙzŠàu‚×^%x…àY‚GîI²ŞKp÷=6ë]÷¤ZïÙkıÛN‹uÿÎhë]­Ûw&[·Qß½wÒãÆ¿ã[¢­[·8­›·Ø­°ùF“¶L=Ç¬Ç\Ç×SGMG™±á	´ı³áŸÌôÛ?Üÿ~DÓeÛefû®ø;æú6ïÛ‘ß
+™ïÕ½ÇHµ8h¶ºæ¬ğÔyêŞ•>¿dıŒÀuopğ9"„oä;D·ºYO¼Õ`³¾Ù`¶ x†àöã¾ãÌø4úÆÖÇÍÖºÇÑô°ía¶qC¦µyƒËº¡!Ûº¾)Êº`mÓë-Mfëš¦>Ö&Zf^ËîOË%*÷ i’m’{’ğ­¸º!ÊzsÃPk#µ«hÇz‚â†Š†ºÁd´[#,]­Šl·FGuµŠ‚İÚÕšaìêIM3¦t	IJ6&:Blvc‚5$6.>8*:&Øl4™ƒ‚‚C‚øE!+j JA€,Èdl42·Ü(3·Ğ(0#äÁHh Ñ.êºãçÑÍ3ğ&ø@í«Z}T«Ğ[µB®j-ÎFOhÉ÷„!µ£ó=ÙÎ¢6J<YÎ"®xbi+â¦2õ°õ$1q}£&tà„‰¥mÍ§oÑşÔ‘zmØxËm·ÅvöÊÊœñª¢Ñ¥ºø2OïÜ_ü'4-\¸Ğù;G«ï^U’ßú•Èÿ²Òó•£ õë¯´?Šô|í(ÀÀ«×®A]Z´óÎÿïšœ‹µñE¿ÙN{‰’Äÿ„…€
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+xref
+0 61
+0000000000 65535 f 
+0000000411 00000 n 
+0000000729 00000 n 
+0000000962 00000 n 
+0000001158 00000 n 
+0000001861 00000 n 
+0000015895 00000 n 
+0000016082 00000 n 
+0000016456 00000 n 
+0000017850 00000 n 
+0000018042 00000 n 
+0000018316 00000 n 
+0000018696 00000 n 
+0000020100 00000 n 
+0000020335 00000 n 
+0000020523 00000 n 
+0000020773 00000 n 
+0000021206 00000 n 
+0000021640 00000 n 
+0000022072 00000 n 
+0000022510 00000 n 
+0000022953 00000 n 
+0000023394 00000 n 
+0000023841 00000 n 
+0000024282 00000 n 
+0000024534 00000 n 
+0000024782 00000 n 
+0000025228 00000 n 
+0000025661 00000 n 
+0000026096 00000 n 
+0000026529 00000 n 
+0000026964 00000 n 
+0000027409 00000 n 
+0000027850 00000 n 
+0000028285 00000 n 
+0000028724 00000 n 
+0000029162 00000 n 
+0000029602 00000 n 
+0000030034 00000 n 
+0000030470 00000 n 
+0000030907 00000 n 
+0000031155 00000 n 
+0000031403 00000 n 
+0000031834 00000 n 
+0000032266 00000 n 
+0000032519 00000 n 
+0000032767 00000 n 
+0000033202 00000 n 
+0000033634 00000 n 
+0000034063 00000 n 
+0000034621 00000 n 
+0000037623 00000 n 
+0000037876 00000 n 
+0000038111 00000 n 
+0000038546 00000 n 
+0000038982 00000 n 
+0000039419 00000 n 
+0000039866 00000 n 
+0000040301 00000 n 
+0000040728 00000 n 
+0000052275 00000 n 
+trailer
+<<
+  /ID [<09E49437BF791540996E2A9A812A8A93><09E49437BF791540996E2A9A812A8A93>]
+  /Info 1 0 R
+  /Root 2 0 R
+  /Size 61
+>>
+startxref
+63117
+%%EOF
