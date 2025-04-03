@@ -8,8 +8,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
-        <Button Margin="4" Width="200" Height="50" Click="ShowWindowed" Content="Show windowed"></Button>
+        <Button Margin="4" Width="250" Height="50" Click="ShowWindowed" Content="Show in WPF Window (works fine)"></Button>
         
-        <Button Margin="4" Width="200" Height="50" Click="ShowInHost" Content="Show in host"></Button>
+        <Button Margin="4" Width="250" Height="50" Click="ShowInHost" Content="Show in host (ruler throws exception)"></Button>
     </StackPanel>
 </Window>
