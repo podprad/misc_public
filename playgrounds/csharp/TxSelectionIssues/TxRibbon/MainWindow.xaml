@@ -1,0 +1,104 @@
+﻿<Window x:Class="TxRibbon.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TxRibbon"
+        xmlns:wpf="clr-namespace:TXTextControl.WPF;assembly=TXTextControl.WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Ribbon Grid.Row="0">
+            <wpf:RibbonFormattingTab Name="RibbonFormattingTab"
+                                     GotoHorizontalSidebar="SidebarBottom"
+                                     StylesSidebar="SidebarRight"
+                                     FindHorizontalSidebar="SidebarBottom"
+                                     FindSidebar="SidebarRight"
+                                     ReplaceHorizontalSidebar="SidebarBottom"
+                                     ReplaceSidebar="SidebarRight" />
+            <wpf:RibbonInsertTab Name="RibbonInsertTab" />
+            <wpf:RibbonPageLayoutTab Name="RibbonPageLayoutTab" />
+            <wpf:RibbonViewTab Name="RibbonViewTab" />
+            <wpf:RibbonReferencesTab Name="RibbonReferencesTab" />
+            <wpf:RibbonProofingTab Name="RibbonProofingTab"
+                                   CommentsHorizontalSidebar="SidebarBottom"
+                                   CommentsSidebar="SidebarRight"
+                                   TrackedChangesHorizontalSidebar="SidebarBottom"
+                                   TrackedChangesSidebar="SiderbarLeft" />
+            <wpf:RibbonPermissionsTab Name="RibbonPermissionsTab" />
+            <!-- We don't have license for FormFields, so disable this feature -->
+            <wpf:RibbonFormFieldsTab Name="RibbonFormFieldsTab"
+                                     Visibility="Collapsed"
+                                     ConditionalInstructionsSidebar="SidebarRight" />
+            <wpf:RibbonReportingTab Name="RibbonReportingTab"
+                                    FieldNavigatorSidebar="SidebarRight">
+            </wpf:RibbonReportingTab>
+            <wpf:RibbonTableLayoutTab
+                Name="RibbonTableLayoutTab" ContextualTabGroupHeader="Table tools" />
+            <wpf:RibbonFormulaTab
+                Name="RibbonFormulaTab" ContextualTabGroupHeader="Formula" />
+            <wpf:RibbonFrameLayoutTab
+                Name="RibbonFrameLayoutTab" ContextualTabGroupHeader="Frame tools" />
+
+            <Ribbon.ContextualTabGroups>
+                <RibbonContextualTabGroup
+                    Header="Table tools"
+                    Name="TabToolsTab"
+                    Background="#6600FF00" />
+                <RibbonContextualTabGroup
+                    Header="Frame tools"
+                    Name="FrameToolsTab"
+                    Background="#66FF00FF" />
+            </Ribbon.ContextualTabGroups>
+
+            <Ribbon.ApplicationMenu>
+                <RibbonApplicationMenu>
+                    <RibbonApplicationMenuItem Header="Open template" />
+
+                    <RibbonApplicationMenuItem Header="Open data XML"></RibbonApplicationMenuItem>
+
+                    <RibbonApplicationMenuItem Header="Render" />
+
+                    <RibbonApplicationMenuItem Header="Save template" />
+                </RibbonApplicationMenu>
+            </Ribbon.ApplicationMenu>
+        </Ribbon>
+        <DockPanel Grid.Row="1">
+            <wpf:StatusBar x:Name="StatusBar" ShowZoom="False" BorderStyle="VerticalColorScheme"
+                           DockPanel.Dock="Bottom" />
+            <wpf:Sidebar x:Name="SiderbarLeft" ContentLayout="About" HorizontalAlignment="Left" DockPanel.Dock="Left"
+                         ShowPinButton="False" DialogStyle="StandardSizable" />
+            <wpf:Sidebar x:Name="SidebarRight" IsShown="False" HorizontalAlignment="Right" DockPanel.Dock="Right" />
+            <wpf:Sidebar x:Name="SidebarBottom" IsShown="False" VerticalAlignment="Bottom" DockPanel.Dock="Bottom" />
+            <wpf:RulerBar x:Name="HorizontalRulerBar" DockPanel.Dock="Top" />
+            <wpf:RulerBar x:Name="VerticalRulerBar" HorizontalAlignment="Left" VerticalAlignment="Stretch"
+                          DockPanel.Dock="Left" />
+            <wpf:TextControl DockPanel.Dock="Top" x:Name="TextControl" HideSelection="False"
+                             RibbonFormattingTab="RibbonFormattingTab"
+                             RibbonInsertTab="RibbonInsertTab"
+                             RibbonPageLayoutTab="RibbonPageLayoutTab"
+                             RibbonViewTab="RibbonViewTab"
+                             RibbonReferencesTab="RibbonReferencesTab"
+                             RibbonProofingTab="RibbonProofingTab"
+                             RibbonPermissionsTab="RibbonPermissionsTab"
+                             RibbonFormFieldsTab="RibbonFormFieldsTab"
+                             RibbonReportingTab="RibbonReportingTab"
+                             RibbonTableLayoutTab="RibbonTableLayoutTab"
+                             RibbonFormulaTab="RibbonFormulaTab"
+                             RibbonFrameLayoutTab="RibbonFrameLayoutTab"
+                             RulerBar="HorizontalRulerBar"
+                             VerticalRulerBar="VerticalRulerBar"
+                             StatusBar="StatusBar"
+                             Loaded="TextControl_Loaded_MainWindow">
+                <wpf:TextControl.DisplayColors>
+                    <wpf:TextControlColors DesktopColor="#F5F6F7" DarkShadowColor="#F5F6F7" LightShadowColor="#F5F6F7" />
+                </wpf:TextControl.DisplayColors>
+            </wpf:TextControl>
+        </DockPanel>
+    </Grid>
+</Window>

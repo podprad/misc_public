@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net8.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RuntimeIdentifier>win-x86</RuntimeIdentifier>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+    
+    <ItemGroup>
+        <PackageReference Include="TXTextControl.TextControl.WPF.SDK" Version="33.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <Content Include="Content\*.xml" CopyToOutputDirectory="PreserveNewest" />
+        <Content Include="Content\*.tx" CopyToOutputDirectory="PreserveNewest" />
+    </ItemGroup>
+</Project>
